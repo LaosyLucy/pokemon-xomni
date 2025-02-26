@@ -39,4 +39,6 @@
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
 # Route A1 (32) - Esperiy Town (22)
-32,0,0,22,18,59
+32,North,0,22,South,18
+# Inysta Town (43) - Route A1 (32)
+43,North,0,32,South,6
