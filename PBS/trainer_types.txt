@@ -423,3 +423,10 @@ Name = Lairite Boss
 Gender = Male
 BaseMoney = 20000
 SkillLevel = 100
+#-------------------------------
+[LEADERKINA]
+Name = Leader Kina
+Gender = Male
+BaseMoney = 1000
+SkillLevel = 10
+
