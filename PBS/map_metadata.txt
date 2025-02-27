@@ -437,6 +437,14 @@ MapPosition = 0,22,22
 BattleBack = field
 #-------------------------------
 [082]   # InystanBeaches
+Name = Inystan Beaches
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
+#-------------------------------
+[083]   # InystanBeachesLugia
+Name = Inystan Beaches
 Outdoor = true
 ShowArea = true
 Bicycle = true

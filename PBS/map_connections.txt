@@ -24,35 +24,37 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Esperiy Town (22) - Route A1 (32)
+22,South,22,32,North,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
-# Ingido Plateau outside (35) - Route 4 (39)
-35,West,11,39,East,0
-# Route 5 (41) - Route 4 Cycling Road (40)
-41,North,0,40,South,0
-# Route 5 (41) - Route 6 Cycling Road (45)
-41,South,6,45,North,0
-# Route 7 (47) - Battle Frontier (52)
-47,East,8,52,West,0
-# Route 8 (69) - Safari Zone outside (66)
-69,North,0,66,South,10
 # Route A1 (32) - Route A2 (81)
 32,West,80,81,East,0
-# Inysta Town (43) - Route A2 (81)
-43,West,0,81,East,0
-# InystanBeaches (82) - Route A2 (81)
-82,North,30,81,South,0
-# Esperiy Town (22) - Route A1 (32)
-22,South,22,32,North,0
 # Inysta Town (43) - Route A1 (32)
 43,North,0,32,South,0
 # Route A3 (79) - Route A1 (32)
 79,North,0,32,South,40
 # InystanBeaches (82) - Route A1 (32)
 82,East,0,32,West,160
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Inysta Town (43) - Route A2 (81)
+43,West,0,81,East,0
 # Route A3 (79) - Inysta Town (43)
 79,West,0,43,East,0
 # InystanBeaches (82) - Inysta Town (43)
 82,East,0,43,West,80
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# InystanBeaches (82) - Route A2 (81)
+82,North,30,81,South,0
+# RouteA2northbit (84) - InystanBeachesLugia (83)
+84,South,0,83,North,30
