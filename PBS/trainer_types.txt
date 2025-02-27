@@ -50,11 +50,6 @@ Name = Bird Keeper
 Gender = Male
 BaseMoney = 32
 #-------------------------------
-[BUGCATCHER]
-Name = Bug Catcher
-Gender = Male
-BaseMoney = 16
-#-------------------------------
 [BURGLAR]
 Name = Burglar
 Gender = Male
@@ -428,7 +423,7 @@ SkillLevel = 100
 Name = Leader Kina
 Gender = Male
 BaseMoney = 1000
-SkillLevel = 10
+SkillLevel = 30
 #-------------------------------
 [SCOUTGIRL]
 Name = Scoutgirl
@@ -436,3 +431,14 @@ Gender = Female
 BaseMoney = 200
 SkillLevel = 10
 IntroBGM = Battle trainer
+#-------------------------------
+[BEEKEEPER]
+Name = Beekeeper
+Gender = Female
+BaseMoney = 20
+SkillLevel = 18
+#-------------------------------
+[BUGCATCHER]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 18

@@ -152,3 +152,18 @@ Pokemon = CHARMANDER,9
 LoseText = ...
 Pokemon = MEOWTH,4
     Moves = TACKLE,SCRATCH,GROWL,SANDATTACK
+#-------------------------------
+[BEEKEEPER,Alice]
+LoseText = Don't you dare touch my bees
+Pokemon = COMBEE,4
+    Moves = GUST,SWEETSCENT,BUGBITE,LEER
+#-------------------------------
+[BEEKEEPER,Amy]
+LoseText = This is none of your beesness!
+Pokemon = COMBEE,4
+    Moves = SANDATTACK,GUST,LEER,BUGBITE
+#-------------------------------
+[BUGCATCHER,Larry]
+LoseText = Darn it...
+Pokemon = CATERPIE,5
+Pokemon = WEEDLE,5
