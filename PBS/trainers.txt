@@ -206,3 +206,23 @@ LoseText = Congratulations.
 Pokemon = STEELIX,30
 Pokemon = OMASTAR,32
 Pokemon = RHYDON,35
+#-------------------------------
+[RIVALEM,Emyly]
+LoseText = Okay smart guy.
+Pokemon = EEVEE,10
+Pokemon = EMOLGA,10
+Pokemon = ROCKRUFF,10
+#-------------------------------
+[RIVALEM,Emyly,1]
+LoseText = Okay smart guy.
+Pokemon = EEVEE,10
+Pokemon = EMOLGA,10
+Pokemon = ROCKRUFF,10
+#-------------------------------
+[RIVAL1,Emyly,2]
+LoseText = Well okay then...
+Pokemon = EEVEE,20
+Pokemon = EMOLGA,20
+Pokemon = BOLDORE,20
+Pokemon = LYCANROC,20
+Pokemon = PIDGEOTTO,20
