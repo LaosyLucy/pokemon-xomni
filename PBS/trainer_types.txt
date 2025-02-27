@@ -403,7 +403,7 @@ VictoryBGM = Battle victory leader
 [LAIRITEGRUNT]
 Name = Lairite Grunt
 Gender = Male
-BaseMoney = 2000
+BaseMoney = 800
 SkillLevel = 10
 #-------------------------------
 [LAIRITEELITE]
@@ -429,4 +429,11 @@ Name = Leader Kina
 Gender = Male
 BaseMoney = 1000
 SkillLevel = 10
+#-------------------------------
+[SCOUTGIRL]
+Name = Scoutgirl
+Gender = Female
+BaseMoney = 200
+SkillLevel = 10
+
 

@@ -117,7 +117,7 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
-[LAIRITEGRUNT,Grunt]
+[LAIRITEGRUNT,John]
 LoseText = Grahh. The deep state loses...
 Pokemon = RATTATA,4
     Moves = GROWL,TACKLE,QUICKATTACK,SLASH
@@ -147,3 +147,8 @@ Pokemon = CHARMANDER,9
 	AbilityIndex = 0
 	Gender = male
 	IV = 7,7,7,7,7,7
+#-------------------------------
+[SCOUTGIRL,Maria]
+LoseText = You could've just said no...
+Pokemon = MEOWTH,4
+	Moves = TACKLE,SCRATCH,GROWL,SANDATTACK

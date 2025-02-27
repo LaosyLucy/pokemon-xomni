@@ -163,6 +163,7 @@ MapSize = 2,1101
 Name = Route A1
 Outdoor = true
 ShowArea = true
+Bicycle = true
 MapPosition = 0,18,18
 BattleBack = field
 #-------------------------------
