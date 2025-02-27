@@ -418,3 +418,11 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[079]   # Route A3
+Name = Route A3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,21
+BattleBack = field
