@@ -132,17 +132,17 @@ Pokemon = CATERPIE,2
 #-------------------------------
 [LEADER_Kina,Kina]
 LoseText = The fire spreads...
-Pokemon = ORICORIO,9
+Pokemon = ORICORIO,12
     Moves = PECK,FIREPUNCH,QUICKATTACK,TACKLE
     AbilityIndex = 0
     Gender = female
     IV = 8,8,8,8,8,8
-Pokemon = FLETCHINDER,9
+Pokemon = FLETCHINDER,12
     Moves = FIREFANG,PECK,QUICKATTACK,GROWL
     AbilityIndex = 0
     Gender = male
     IV = 6,6,6,6,6,6
-Pokemon = CHARMANDER,9
+Pokemon = CHARMANDER,12
     Moves = BITE,FLAMETHROWER,TACKLE,TAILWHIP
     AbilityIndex = 0
     Gender = male
