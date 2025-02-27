@@ -6463,7 +6463,7 @@ ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [APHANITZ]
-BackSprite = 0,0
-FrontSprite = 0,0
+BackSprite = 0,9
+FrontSprite = 0,10
 ShadowX = 0
 ShadowSize = 2
