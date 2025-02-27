@@ -6449,3 +6449,21 @@ BackSprite = 0,6
 FrontSprite = 0,9
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[PAHOEITE]
+BackSprite = 0,36
+FrontSprite = 0,28
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[IGNAA]
+BackSprite = 0,31
+FrontSprite = 0,25
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[APHANITZ]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
