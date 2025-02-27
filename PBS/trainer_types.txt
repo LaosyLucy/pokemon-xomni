@@ -447,3 +447,13 @@ BaseMoney = 18
 Name = Town Thug
 Gender = Male
 BaseMoney = 125
+#-------------------------------
+[ROCKCLIMBER]
+Name = Rock Climber
+Gender = Male
+BaseMoney = 250
+#-------------------------------
+[ELITETRAINER]
+Name = Elite Trainer
+Gender = Male
+BaseMoney = 1000

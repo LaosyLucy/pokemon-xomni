@@ -176,3 +176,33 @@ Pokemon = WURMPLE,3
 [TOWNTHUG,Rodrigo]
 LoseText = YOU'LL REGRET THIS
 Pokemon = HOUNDOUR,7
+#-------------------------------
+[ROCKCLIMBER,David]
+LoseText = GuGAH!
+Pokemon = GEODUDE,8
+Pokemon = ZUBAT,8
+#-------------------------------
+[ROCKCLIMBER,Andrew]
+LoseText = Woah!
+Pokemon = GEODUDE,9
+#-------------------------------
+[ROCKCLIMBER,Peter]
+LoseText = You have a great team.
+Pokemon = ODDISH,10
+Pokemon = GEODUDE,7
+#-------------------------------
+[ROCKCLIMBER,Nevan]
+LoseText = Unbelievable...
+Pokemon = ROGGENROLA,10
+#-------------------------------
+[ROCKCLIMBER,Alex]
+LoseText = Be careful out here!
+Pokemon = ONIX,10
+Pokemon = LARVITAR,10
+Pokemon = GEODUDE,11
+#-------------------------------
+[ELITETRAINER,Alexander]
+LoseText = Congratulations.
+Pokemon = STEELIX,30
+Pokemon = OMASTAR,32
+Pokemon = RHYDON,35
