@@ -467,3 +467,8 @@ BaseMoney = 150
 Name = Rival
 Gender = Male
 BaseMoney = 300
+#-------------------------------
+[FAIRYGIRL]
+Name = Fairy Girl
+Gender = Female
+BaseMoney = 500

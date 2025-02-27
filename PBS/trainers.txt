@@ -226,3 +226,40 @@ Pokemon = EMOLGA,20
 Pokemon = BOLDORE,20
 Pokemon = LYCANROC,20
 Pokemon = PIDGEOTTO,20
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = oo shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[FAIRYGIRL,Melissa]
+LoseText = Life is too short to care!
+Pokemon = DRATINI,12
+Pokemon = SWABLU,12
+#-------------------------------
+[FAIRYGIRL,Alexandria]
+LoseText = And life moves on...
+Pokemon = GIBLE,12
+Pokemon = MORELULL,12
+Pokemon = CUTIEFLY,12
+#-------------------------------
+[FAIRYGIRL,Alyssa]
+LoseText = Wales will be free.
+Pokemon = DEINO,12
+Pokemon = KLEFKI,12
+Pokemon = MAGNEMITE,12
+#-------------------------------
+[FAIRYGIRL,Daisy]
+LoseText = Ah blissful
+Pokemon = SCYTHER,12
+Pokemon = BOUNSWEET,12
+Pokemon = PRINPLUP,12
+
+
+
+
+
+
+
+
