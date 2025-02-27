@@ -125,10 +125,10 @@ Pokemon = RATTATA,4
     Gender = male
     IV = 4,2,5,6,7,5
 Pokemon = CATERPIE,2
-	Moves = GROWL,TACKLE
-	AbilityIndex = 0
-	Gender = male
-	IV = 6,6,6,6,6,6
+    Moves = GROWL,TACKLE
+    AbilityIndex = 0
+    Gender = male
+    IV = 6,6,6,6,6,6
 #-------------------------------
 [LEADERKINA,Kina]
 LoseText = The fire spreads...
@@ -138,17 +138,17 @@ Pokemon = ORICORIO,8
     Gender = female
     IV = 8,8,8,8,8,8
 Pokemon = FLETCHINDER,9
-	Moves = FIREFANG,PECK,QUICKATTACK,GROWL
-	AbilityIndex = 0
-	Gender = male
-	IV = 6,6,6,6,6,6
+    Moves = FIREFANG,PECK,QUICKATTACK,GROWL
+    AbilityIndex = 0
+    Gender = male
+    IV = 6,6,6,6,6,6
 Pokemon = CHARMANDER,9
-	Moves = BITE,FLAMETHROWER,TACKLE,TAILWHIP
-	AbilityIndex = 0
-	Gender = male
-	IV = 7,7,7,7,7,7
+    Moves = BITE,FLAMETHROWER,TACKLE,TAILWHIP
+    AbilityIndex = 0
+    Gender = male
+    IV = 7,7,7,7,7,7
 #-------------------------------
 [SCOUTGIRL,Maria]
-LoseText = You could've just said no...
+LoseText = ...
 Pokemon = MEOWTH,4
-	Moves = TACKLE,SCRATCH,GROWL,SANDATTACK
+    Moves = TACKLE,SCRATCH,GROWL,SANDATTACK
