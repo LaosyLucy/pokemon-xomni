@@ -419,8 +419,8 @@ Gender = Male
 BaseMoney = 20000
 SkillLevel = 100
 #-------------------------------
-[LEADERKINA]
-Name = Leader Kina
+[LEADER_Kina]
+Name = Leader
 Gender = Male
 BaseMoney = 1000
 SkillLevel = 30
@@ -442,3 +442,8 @@ SkillLevel = 18
 Name = Bug Catcher
 Gender = Male
 BaseMoney = 18
+#-------------------------------
+[TOWNTHUG]
+Name = Town Thug
+Gender = Male
+BaseMoney = 125

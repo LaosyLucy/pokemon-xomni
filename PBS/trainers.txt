@@ -130,9 +130,9 @@ Pokemon = CATERPIE,2
     Gender = male
     IV = 6,6,6,6,6,6
 #-------------------------------
-[LEADERKINA,Kina]
+[LEADER_Kina,Kina]
 LoseText = The fire spreads...
-Pokemon = ORICORIO,8
+Pokemon = ORICORIO,9
     Moves = PECK,FIREPUNCH,QUICKATTACK,TACKLE
     AbilityIndex = 0
     Gender = female
@@ -167,3 +167,12 @@ Pokemon = COMBEE,4
 LoseText = Darn it...
 Pokemon = CATERPIE,5
 Pokemon = WEEDLE,5
+#-------------------------------
+[BUGCATCHER,Gocal]
+LoseText = Shucks
+Pokemon = CATERPIE,4
+Pokemon = WURMPLE,3
+#-------------------------------
+[TOWNTHUG,Rodrigo]
+LoseText = YOU'LL REGRET THIS
+Pokemon = HOUNDOUR,7

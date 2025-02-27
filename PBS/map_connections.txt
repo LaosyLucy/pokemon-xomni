@@ -42,7 +42,11 @@
 32,South,0,43,North,0
 # Route A3 (79) - Inysta Town (43)
 79,West,0,43,East,0
+# Route A2 (81) - Inysta Town (43)
+81,East,0,43,West,0
 # Esperiy Town (22) - Route A1 (32)
 22,South,22,32,North,0
 # Route A3 (79) - Route A1 (32)
 79,North,0,32,South,40
+# Route A2 (81) - Route A1 (32)
+81,North,40,32,South,0
