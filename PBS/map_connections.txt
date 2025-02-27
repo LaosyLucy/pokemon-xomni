@@ -38,15 +38,21 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route A1 (32) - Inysta Town (43)
-32,South,0,43,North,0
-# Route A3 (79) - Inysta Town (43)
-79,West,0,43,East,0
-# Route A2 (81) - Inysta Town (43)
-81,East,0,43,West,0
+# Route A1 (32) - Route A2 (81)
+32,West,80,81,East,0
+# Inysta Town (43) - Route A2 (81)
+43,West,0,81,East,0
+# InystanBeaches (82) - Route A2 (81)
+82,North,30,81,South,0
 # Esperiy Town (22) - Route A1 (32)
 22,South,22,32,North,0
+# Inysta Town (43) - Route A1 (32)
+43,North,0,32,South,0
 # Route A3 (79) - Route A1 (32)
 79,North,0,32,South,40
-# Route A2 (81) - Route A1 (32)
-81,North,40,32,South,0
+# InystanBeaches (82) - Route A1 (32)
+82,East,0,32,West,160
+# Route A3 (79) - Inysta Town (43)
+79,West,0,43,East,0
+# InystanBeaches (82) - Inysta Town (43)
+82,East,0,43,West,80

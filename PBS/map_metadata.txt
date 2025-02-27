@@ -435,3 +435,9 @@ Bicycle = true
 Weather = Rain,100
 MapPosition = 0,22,22
 BattleBack = field
+#-------------------------------
+[082]   # InystanBeaches
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
