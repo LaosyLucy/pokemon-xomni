@@ -40,29 +40,27 @@
 69,North,0,66,South,10
 # RouteA2northbit (84) - InystanBeachesLugia (83)
 84,South,0,83,North,30
-# Route A1 (32) - Inysta Town (43)
-32,South,0,43,North,0
-# Route A2 (81) - Inysta Town (43)
-81,East,0,43,West,0
-# Route A3 (79) - Inysta Town (43)
-79,West,0,43,East,0
-# InystanBeaches (82) - Inysta Town (43)
-82,East,0,43,West,80
+# Route A1 (32) - Route A4 (86)
+32,South,100,86,North,0
+# Route A3 (79) - Route A4 (86)
+79,East,0,86,West,0
 # Esperiy Town (22) - Route A1 (32)
 22,South,22,32,North,0
+# Inysta Town (43) - Route A1 (32)
+43,North,0,32,South,0
 # Route A2 (81) - Route A1 (32)
 81,North,40,32,South,0
-# Route A3 (79) - Route A1 (32)
-79,North,0,32,South,40
 # InystanBeaches (82) - Route A1 (32)
 82,East,0,32,West,160
-# Route A4 (86) - Route A1 (32)
-86,North,0,32,South,100
+# Route A3 (79) - Route A1 (32)
+79,North,0,32,South,40
+# Route A2 (81) - Inysta Town (43)
+81,East,0,43,West,0
+# InystanBeaches (82) - Inysta Town (43)
+82,East,0,43,West,80
+# Route A3 (79) - Inysta Town (43)
+79,West,0,43,East,0
 # InystanBeaches (82) - Route A2 (81)
 82,North,30,81,South,0
-# Route A4 (86) - Route A3 (79)
-86,West,0,79,East,0
-# Kereca Town (87) - Route A3 (79)
-87,North,0,79,South,99
-# Kereca Town (87) - Route A4 (86)
-87,North,0,86,South,39
+# Route A4 (86) - Kerenca Town (87)
+86,36,29,87,0,0

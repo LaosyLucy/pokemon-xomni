@@ -456,3 +456,27 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,23,23
 BattleBack = field
+#-------------------------------
+[087]   # Kerenca Town
+Name = Kerenca Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[088]   # Route A5
+Name = Route A5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[089]   # Wynnoa City
+Name = Wynnoa City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
