@@ -23176,10 +23176,10 @@ Height = 0.4
 Weight = 7.5
 Color = Blue
 Shape = Finned
-Category = Sea Lion
-Pokedex = This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.
-Generation = 7
-Evolutions = BRIONNE,Level,17
+Category = Meteortode
+Pokedex = Placeholder Dex
+Generation = 10
+Evolutions = ASTROPOLE,Level,16
 #-------------------------------
 [ASTROPOLE]
 Name = Astropole
@@ -23201,10 +23201,10 @@ Height = 0.6
 Weight = 17.5
 Color = Blue
 Shape = Finned
-Category = Pop Star
-Pokedex = It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.
-Generation = 7
-Evolutions = PRIMARINA,Level,34
+Category = Meteortode
+Pokedex = Placeholder Dex
+Generation = 10
+Evolutions = COMETODE,Level,32
 #-------------------------------
 [COMETODE]
 Name = Cometode
@@ -23226,6 +23226,6 @@ Height = 1.8
 Weight = 44.0
 Color = Blue
 Shape = Finned
-Category = Soloist
-Pokedex = It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.
-Generation = 7
+Category = Meteortode
+Pokedex = Placeholder Dex
+Generation = 10

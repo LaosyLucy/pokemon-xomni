@@ -6467,3 +6467,21 @@ BackSprite = 0,9
 FrontSprite = 0,10
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[OVINURA]
+BackSprite = 0,63
+FrontSprite = 0,46
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[ASTROPOLE]
+BackSprite = 0,54
+FrontSprite = 0,34
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[COMETODE]
+BackSprite = 0,11
+FrontSprite = 0,11
+ShadowX = 0
+ShadowSize = 2
