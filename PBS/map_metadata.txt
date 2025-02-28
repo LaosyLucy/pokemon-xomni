@@ -441,7 +441,6 @@ Name = Inystan Beaches
 Outdoor = true
 ShowArea = true
 Bicycle = true
-Weather = Rain,100
 #-------------------------------
 [083]   # InystanBeachesLugia
 Name = Inystan Beaches
