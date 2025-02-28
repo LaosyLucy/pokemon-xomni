@@ -179,27 +179,30 @@ Pokemon = HOUNDOUR,7
 #-------------------------------
 [ROCKCLIMBER,David]
 LoseText = GuGAH!
-Pokemon = GEODUDE,8
-Pokemon = ZUBAT,8
+Pokemon = GEODUDE,6
+Pokemon = ZUBAT,6
 #-------------------------------
 [ROCKCLIMBER,Andrew]
 LoseText = Woah!
-Pokemon = GEODUDE,9
+Pokemon = GEODUDE,7
 #-------------------------------
 [ROCKCLIMBER,Peter]
 LoseText = You have a great team.
-Pokemon = ODDISH,10
+Pokemon = ODDISH,7
 Pokemon = GEODUDE,7
 #-------------------------------
 [ROCKCLIMBER,Nevan]
 LoseText = Unbelievable...
-Pokemon = ROGGENROLA,10
+Pokemon = ROGGENROLA,8
+Pokemon = BOLDORE,18
+Pokemon = GOLEM,33
+Pokemon = ONIX,26
 #-------------------------------
 [ROCKCLIMBER,Alex]
 LoseText = Be careful out here!
-Pokemon = ONIX,10
-Pokemon = LARVITAR,10
-Pokemon = GEODUDE,11
+Pokemon = ONIX,8
+Pokemon = LARVITAR,8
+Pokemon = GEODUDE,8
 #-------------------------------
 [ELITETRAINER,Alexander]
 LoseText = Congratulations.
@@ -219,13 +222,63 @@ Pokemon = EEVEE,10
 Pokemon = EMOLGA,10
 Pokemon = ROCKRUFF,10
 #-------------------------------
-[RIVAL1,Emyly,2]
+[RIVALEM,Emyly,2]
 LoseText = Well okay then...
 Pokemon = EEVEE,20
 Pokemon = EMOLGA,20
 Pokemon = BOLDORE,20
 Pokemon = LYCANROC,20
 Pokemon = PIDGEOTTO,20
+#-------------------------------
+[RIVALEM,Emyly,3]
+LoseText = Okay smart guy.
+Pokemon = EEVEE,10
+Pokemon = EMOLGA,10
+Pokemon = ROCKRUFF,10
+#-------------------------------
+[RIVALEM,Emyly,4]
+LoseText = Okay smart guy.
+Pokemon = EEVEE,10
+Pokemon = EMOLGA,10
+Pokemon = ROCKRUFF,10
+#-------------------------------
+[RIVALARNE,Albert,1]
+LoseText = For a recluse, that was pretty good hehe
+Pokemon = PAHOEITE,5
+#-------------------------------
+[RIVALARNE,Albert,2]
+LoseText = For a recluse, that was pretty good hehe
+Pokemon = OVINURA,5
+#-------------------------------
+[RIVALARNE,Albert,3]
+LoseText = For a recluse, that was pretty good hehe
+Pokemon = ROWLET,5
+#-------------------------------
+[RIVALARNE,Albert,4]
+LoseText = Okay smart guy.
+Pokemon = EEVEE,10
+Pokemon = EMOLGA,10
+Pokemon = ROCKRUFF,10
+#-------------------------------
+[RIVALARNE,Albert,5]
+LoseText = Well okay then...
+Pokemon = EEVEE,20
+Pokemon = EMOLGA,20
+Pokemon = BOLDORE,20
+Pokemon = LYCANROC,20
+Pokemon = PIDGEOTTO,20
+#-------------------------------
+[RIVALARNE,Albert,6]
+LoseText = Okay smart guy.
+Pokemon = EEVEE,10
+Pokemon = EMOLGA,10
+Pokemon = ROCKRUFF,10
+#-------------------------------
+[RIVALARNE,Albert,7]
+LoseText = Okay smart guy.
+Pokemon = EEVEE,10
+Pokemon = EMOLGA,10
+Pokemon = ROCKRUFF,10
 #-------------------------------
 [RIVAL1,Blue]
 LoseText = oo shabby.

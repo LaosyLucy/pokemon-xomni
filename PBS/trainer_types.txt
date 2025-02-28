@@ -396,7 +396,7 @@ BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LAIRITEGRUNT]
-Name = Lairite Grunt
+Name = Lairite Goon
 Gender = Male
 BaseMoney = 800
 SkillLevel = 10
@@ -424,6 +424,8 @@ Name = Leader
 Gender = Male
 BaseMoney = 1000
 SkillLevel = 30
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
 #-------------------------------
 [SCOUTGIRL]
 Name = Scoutgirl
@@ -462,11 +464,13 @@ BaseMoney = 1000
 Name = Rival
 Gender = Female
 BaseMoney = 150
+BattleBGM = Emyly Rival
 #-------------------------------
 [RIVALARNE]
 Name = Rival
 Gender = Male
-BaseMoney = 300
+BaseMoney = 150
+BattleBGM = Albert Rival
 #-------------------------------
 [FAIRYGIRL]
 Name = Fairy Girl
