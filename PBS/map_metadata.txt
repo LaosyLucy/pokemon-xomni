@@ -464,6 +464,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+MapSize = 5,1
 #-------------------------------
 [088]   # Route A5
 Name = Route A5
@@ -472,6 +473,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+MapSize = 4,
 #-------------------------------
 [089]   # Wynnoa City
 Name = Wynnoa City
