@@ -6485,3 +6485,9 @@ BackSprite = 0,11
 FrontSprite = 0,11
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[MANIPULETTE]
+BackSprite = 0,35
+FrontSprite = 0,5
+ShadowX = 0
+ShadowSize = 2

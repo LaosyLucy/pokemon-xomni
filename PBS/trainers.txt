@@ -305,6 +305,7 @@ Pokemon = MAGNEMITE,12
 #-------------------------------
 [FAIRYGIRL,Daisy]
 LoseText = Ah blissful
+Pokemon = MANIPULETTE,12
 Pokemon = SCYTHER,12
 Pokemon = BOUNSWEET,12
 Pokemon = PRINPLUP,12
