@@ -160,7 +160,7 @@ Pokemon = VULPIX,9
 LoseText = Aww nuts
 Pokemon = KAKUNA,9
 Pokemon = BUTTERFREE,10
-Pokemon = BEEDRIll,10
+Pokemon = BEEDRILL,10
 #-------------------------------
 [BIRDKEEPER,Malcolm]
 LoseText = Aww nuts
@@ -410,3 +410,16 @@ Pokemon = LOPUNNY,24
 Pokemon = DEDENNE,24
 Pokemon = TSAREENA,24
 Pokemon = GRENINJA,24
+#-------------------------------
+[LAIRITEGRUNT,Peter]
+LoseText = Not this again...
+Pokemon = RATICATE,24
+	Form = 1
+Pokemon = GOLBAT,24
+Pokemon = SANDSLASH,24
+#-------------------------------
+[LAIRITEGRUNT,Xander]
+LoseText = Guess I concede.
+Pokemon = ARCANINE,25
+Pokemon = MAGMAR,25
+Pokemon = RAICHU,26
