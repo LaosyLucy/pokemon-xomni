@@ -132,21 +132,23 @@ Pokemon = CATERPIE,2
 #-------------------------------
 [LEADER_Kina,Kina]
 LoseText = The fire spreads...
+Pokemon = BULBASAUR,10
+Pokemon = MUNCHLAX,11
+Pokemon = HONEDGE,11
 Pokemon = ORICORIO,12
-    Moves = PECK,FIREPUNCH,QUICKATTACK,TACKLE
-    AbilityIndex = 0
-    Gender = female
-    IV = 8,8,8,8,8,8
 Pokemon = FLETCHINDER,12
-    Moves = FIREFANG,PECK,QUICKATTACK,GROWL
-    AbilityIndex = 0
-    Gender = male
-    IV = 6,6,6,6,6,6
 Pokemon = CHARMANDER,12
-    Moves = BITE,FLAMETHROWER,TACKLE,TAILWHIP
-    AbilityIndex = 0
-    Gender = male
-    IV = 7,7,7,7,7,7
+#-------------------------------
+[LEADER_Kina,Kina,1]
+Items = MEGARING
+LoseText = Another defeaning blow...
+Pokemon = VENUSAUR,70
+Pokemon = SNORLAX,70
+Pokemon = AEGISLASH,70
+Pokemon = ORICORIO,70
+Pokemon = TALONFLAME,70
+Pokemon = CHARIZARD,70
+	Item = CHARIZARDITEY
 #-------------------------------
 [SCOUTGIRL,Maria]
 LoseText = ...
@@ -305,15 +307,82 @@ Pokemon = MAGNEMITE,12
 #-------------------------------
 [FAIRYGIRL,Daisy]
 LoseText = Ah blissful
-Pokemon = MANIPULETTE,12
 Pokemon = SCYTHER,12
 Pokemon = BOUNSWEET,12
 Pokemon = PRINPLUP,12
-
-
-
-
-
-
-
-
+#-------------------------------
+[BEAUTY,Melanie]
+LoseText = You're going down in misery!
+Pokemon = BOUNSWEET,17
+Pokemon = COMFEY,17
+Pokemon = SPHEAL,17
+#-------------------------------
+[BEAUTY,Fiona]
+LoseText = We're going to win!
+Pokemon = SLOWPOKE,18
+Pokemon = KIRLIA,18
+Pokemon = HITMONTOP,18
+Pokemon = TRANQUILL,18
+#-------------------------------
+[BEAUTY,Georgia]
+LoseText = We're going to win!
+Pokemon = SLOWPOKE,18
+Pokemon = KIRLIA,18
+Pokemon = HITMONTOP,18
+Pokemon = PILOSWINE,18
+#-------------------------------
+[BEAUTY,Poppy]
+LoseText = What's a Lowlife like yourself doing here?
+Pokemon = SNEASEL,19
+Pokemon = CLOYSTER,20
+Pokemon = SMOOCHUM,20
+Pokemon = SANDSHREW_1,20
+#-------------------------------
+[BEAUTY,Taylor]
+LoseText = Bam! Chick! Ow!
+Pokemon = SEALEO,20
+Pokemon = RIBOMBEE,21
+Pokemon = DEWGONG,21
+Pokemon = AMAURA,20
+#-------------------------------
+[BEAUTY,Katelyn]
+LoseText = I used to be a big shot!
+Pokemon = JYNX,21
+Pokemon = NIDORINA,21
+Pokemon = SNORUNT,20
+Pokemon = AMAURA,20
+Pokemon = FROSMOTH,21
+#-------------------------------
+[LEADER_Sofia,Sofia]
+LoseText = Hold your horses...
+Pokemon = NINETALES,22
+	Form = 1
+Pokemon = GLACEON,22
+Pokemon = FROSLASS,23
+Pokemon = SANDSLASH,23
+	Form = 1
+Pokemon = PILOSWINE,23
+Pokemon = SYLVEON,24
+#-------------------------------
+[LEADER_Sofia,Sofia,1]
+Items = MEGARING
+LoseText = Even in my retirement?
+Pokemon = NINETALES,70
+	Form = 1
+Pokemon = GLACEON,70
+Pokemon = FROSLASS,70
+Pokemon = SANDSLASH,70
+	Form = 1
+Pokemon = MAMOSWINE,70
+Pokemon = DIANCIE,70
+	Item = DIANCITE
+#-------------------------------
+[BEAUTY,Lucy]
+LoseText = I'll never be like my big sis...
+Pokemon = STEENEE,23
+Pokemon = SYLVEON,23
+Pokemon = LOPUNNY,24
+	Shiny = true
+Pokemon = DEDENNE,24
+Pokemon = TSAREENA,24
+Pokemon = GRENINJA,24

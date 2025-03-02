@@ -476,3 +476,8 @@ BattleBGM = Albert Rival
 Name = Fairy Girl
 Gender = Female
 BaseMoney = 500
+#-------------------------------
+[LEADER_Sofia]
+Name = Leader
+Gender = Female
+BaseMoney = 100

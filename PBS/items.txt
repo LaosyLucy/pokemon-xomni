@@ -6563,3 +6563,19 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
+#-------------------------------
+[BOBBYMUMFORDNOTE]
+Name = Bobby Mumford Note
+NamePlural = Bobby Mumford Notes
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A note that Bobby Mumford wants Sofia Hopkins to sign.
+#-------------------------------
+[BOBBYMUMFORDNOTES]
+Name = Sofia Hopkins Autograph
+NamePlural = Sofia Hopkins Autographs
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A signature from Sofia Hopkins.
