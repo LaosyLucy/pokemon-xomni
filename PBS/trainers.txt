@@ -150,6 +150,30 @@ Pokemon = TALONFLAME,70
 Pokemon = CHARIZARD,70
 	Item = CHARIZARDITEY
 #-------------------------------
+[BIRDKEEPER,Fliar]
+LoseText = Aww nuts
+Pokemon = STARLY,9
+Pokemon = PONYTA,9
+Pokemon = VULPIX,9
+#-------------------------------
+[BIRDKEEPER,Edward]
+LoseText = Aww nuts
+Pokemon = KAKUNA,9
+Pokemon = BUTTERFREE,10
+Pokemon = BEEDRIll,10
+#-------------------------------
+[BIRDKEEPER,Malcolm]
+LoseText = Aww nuts
+Pokemon = SPEAROW,10
+Pokemon = GROWLITHE,11
+Pokemon = SLUGMA,10
+#-------------------------------
+[BIRDKEEPER,Scott]
+LoseText = Aww nuts
+Pokemon = TORCHIC,10
+Pokemon = CYNDAQUIL,10
+Pokemon = LITWICK,11
+#-------------------------------
 [SCOUTGIRL,Maria]
 LoseText = ...
 Pokemon = MEOWTH,4
