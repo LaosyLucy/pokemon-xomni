@@ -398,31 +398,31 @@ VictoryBGM = Battle victory leader
 [LAIRITEGRUNT]
 Name = Lairite Goon
 Gender = Male
-BaseMoney = 800
+BaseMoney = 25
 SkillLevel = 10
 #-------------------------------
 [LAIRITEADMIN]
 Name = Lairite Admin
 Gender = Male
-BaseMoney = 4000
+BaseMoney = 75
 SkillLevel = 50
 #-------------------------------
 [LAIRITEHEAD]
 Name = Lairite Head
 Gender = Male
-BaseMoney = 8000
+BaseMoney = 100
 SkillLevel = 80
 #-------------------------------
 [LAIRITEBOSS]
 Name = Lairite Boss
 Gender = Male
-BaseMoney = 20000
+BaseMoney = 150
 SkillLevel = 100
 #-------------------------------
 [LEADER_Kina]
 Name = Leader
 Gender = Male
-BaseMoney = 1000
+BaseMoney = 100
 SkillLevel = 30
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
@@ -430,52 +430,52 @@ VictoryBGM = Battle victory leader
 [SCOUTGIRL]
 Name = Scoutgirl
 Gender = Female
-BaseMoney = 200
+BaseMoney = 16
 SkillLevel = 10
 IntroBGM = Battle trainer
 #-------------------------------
 [BEEKEEPER]
 Name = Beekeeper
 Gender = Female
-BaseMoney = 20
+BaseMoney = 16
 SkillLevel = 18
 #-------------------------------
 [BUGCATCHER]
 Name = Bug Catcher
 Gender = Male
-BaseMoney = 18
+BaseMoney = 16
 #-------------------------------
 [TOWNTHUG]
 Name = Town Thug
 Gender = Male
-BaseMoney = 125
+BaseMoney = 16
 #-------------------------------
 [ROCKCLIMBER]
 Name = Rock Climber
 Gender = Male
-BaseMoney = 250
+BaseMoney = 16
 #-------------------------------
 [ELITETRAINER]
 Name = Elite Trainer
 Gender = Male
-BaseMoney = 1000
+BaseMoney = 75
 #-------------------------------
 [RIVALEM]
 Name = Rival
 Gender = Female
-BaseMoney = 150
+BaseMoney = 50
 BattleBGM = Emyly Rival
 #-------------------------------
 [RIVALARNE]
 Name = Rival
 Gender = Male
-BaseMoney = 150
+BaseMoney = 50
 BattleBGM = Albert Rival
 #-------------------------------
 [FAIRYGIRL]
 Name = Fairy Girl
 Gender = Female
-BaseMoney = 500
+BaseMoney = 16
 #-------------------------------
 [LEADER_Sofia]
 Name = Leader

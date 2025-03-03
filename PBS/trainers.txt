@@ -441,6 +441,7 @@ LoseText = Not my Dusclops...
 Pokemon = DUSCLOPS,25
 #-------------------------------
 [LAIRITEADMIN,Caine]
+Items = SUPERPOTION,POTION
 LoseText = My years of experience down the drain!
 Pokemon = SCRAFTY,23
 Pokemon = PARASECT,24
@@ -448,8 +449,37 @@ Pokemon = PUPITAR,24
 Pokemon = WEEPINBELL,23
 #-------------------------------
 [LAIRITEADMIN,Conker]
+Items = SUPERPOTION,REVIVE
 LoseText = A power so far off the scale has defeated me.
 Pokemon = SCYTHER,24
 Pokemon = CRUSTLE,24
 Pokemon = VIKAVOLT,24
 Pokemon = WEEZING,24
+#-------------------------------
+[CAMPER,Arnold]
+LoseText = My hiking equipment!
+Pokemon = GEODUDE,24
+Pokemon = GOLEM,25
+#-------------------------------
+[CAMPER,Richard]
+LoseText = Not my circus not my monkeys
+Pokemon = MRMIME,25
+Pokemon = PRIMEAPE,26
+#-------------------------------
+[SCIENTIST,Reginold]
+LoseText = Great Scott!
+Pokemon = MAGNEMITE,21
+Pokemon = MAGNETON,27
+#-------------------------------
+[SCIENTIST,Joeven]
+LoseText = The electricity is intense!
+Pokemon = ELECTABUZZ,25
+Pokemon = GLALIE,25
+#-------------------------------
+[SCIENTIST,Duncan]
+LoseText = Not this...
+Pokemon = MAGNETON,24
+Pokemon = TOGEDEMARU,25
+Pokemon = PLUSLE,19
+Pokemon = MINUN,19
+
