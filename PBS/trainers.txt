@@ -239,7 +239,7 @@ Pokemon = RHYDON,35
 [RIVALEM,Emyly]
 LoseText = Okay smart guy.
 Pokemon = EEVEE,10
-Pokemon = EMOLGA,10
+Pokemon = EMOLGA,9
 Pokemon = ROCKRUFF,10
 #-------------------------------
 [RIVALEM,Emyly,1]
@@ -314,79 +314,79 @@ Pokemon = BULBASAUR,18
 #-------------------------------
 [FAIRYGIRL,Melissa]
 LoseText = Life is too short to care!
-Pokemon = DRATINI,12
-Pokemon = SWABLU,12
+Pokemon = DRATINI,10
+Pokemon = SWABLU,10
 #-------------------------------
 [FAIRYGIRL,Alexandria]
 LoseText = And life moves on...
-Pokemon = GIBLE,12
-Pokemon = MORELULL,12
-Pokemon = CUTIEFLY,12
+Pokemon = GIBLE,10
+Pokemon = MORELULL,10
+Pokemon = CUTIEFLY,10
 #-------------------------------
 [FAIRYGIRL,Alyssa]
 LoseText = Wales will be free.
-Pokemon = DEINO,12
-Pokemon = KLEFKI,12
-Pokemon = MAGNEMITE,12
+Pokemon = DEINO,10
+Pokemon = KLEFKI,10
+Pokemon = MAGNEMITE,10
 #-------------------------------
 [FAIRYGIRL,Daisy]
 LoseText = Ah blissful
-Pokemon = SCYTHER,12
-Pokemon = BOUNSWEET,12
-Pokemon = PRINPLUP,12
+Pokemon = SCYTHER,10
+Pokemon = BOUNSWEET,10
+Pokemon = PRINPLUP,10
 #-------------------------------
 [BEAUTY,Melanie]
 LoseText = You're going down in misery!
-Pokemon = BOUNSWEET,17
-Pokemon = COMFEY,17
-Pokemon = SPHEAL,17
+Pokemon = BOUNSWEET,14
+Pokemon = COMFEY,14
+Pokemon = SPHEAL,14
 #-------------------------------
 [BEAUTY,Fiona]
 LoseText = We're going to win!
-Pokemon = SLOWPOKE,18
-Pokemon = KIRLIA,18
-Pokemon = HITMONTOP,18
-Pokemon = TRANQUILL,18
+Pokemon = SLOWPOKE,14
+Pokemon = KIRLIA,15
+Pokemon = HITMONTOP,14
+Pokemon = TRANQUILL,15
 #-------------------------------
 [BEAUTY,Georgia]
 LoseText = We're going to win!
-Pokemon = SLOWPOKE,18
-Pokemon = KIRLIA,18
-Pokemon = HITMONTOP,18
-Pokemon = PILOSWINE,18
+Pokemon = SLOWPOKE,16
+Pokemon = KIRLIA,15
+Pokemon = HITMONTOP,15
+Pokemon = PILOSWINE,16
 #-------------------------------
 [BEAUTY,Poppy]
 LoseText = What's a Lowlife like yourself doing here?
-Pokemon = SNEASEL,19
-Pokemon = CLOYSTER,20
-Pokemon = SMOOCHUM,20
-Pokemon = SANDSHREW_1,20
+Pokemon = SNEASEL,16
+Pokemon = CLOYSTER,17
+Pokemon = SMOOCHUM,16
+Pokemon = SANDSHREW_1,17
 #-------------------------------
 [BEAUTY,Taylor]
 LoseText = Bam! Chick! Ow!
-Pokemon = SEALEO,20
-Pokemon = RIBOMBEE,21
-Pokemon = DEWGONG,21
-Pokemon = AMAURA,20
+Pokemon = SPHEAL,17
+Pokemon = RIBOMBEE,16
+Pokemon = DEWGONG,17
+Pokemon = AMAURA,17
 #-------------------------------
 [BEAUTY,Katelyn]
 LoseText = I used to be a big shot!
-Pokemon = JYNX,21
-Pokemon = NIDORINA,21
-Pokemon = SNORUNT,20
-Pokemon = AMAURA,20
-Pokemon = FROSMOTH,21
+Pokemon = JYNX,17
+Pokemon = NIDORINA,18
+Pokemon = SNORUNT,19
+Pokemon = AMAURA,18
+Pokemon = FROSMOTH,19
 #-------------------------------
 [LEADER_Sofia,Sofia]
 LoseText = Hold your horses...
-Pokemon = NINETALES,22
+Pokemon = NINETALES,20
 	Form = 1
-Pokemon = GLACEON,22
-Pokemon = FROSLASS,23
-Pokemon = SANDSLASH,23
+Pokemon = GLACEON,20
+Pokemon = FROSLASS,21
+Pokemon = SANDSLASH,21
 	Form = 1
-Pokemon = PILOSWINE,23
-Pokemon = SYLVEON,24
+Pokemon = PILOSWINE,22
+Pokemon = SYLVEON,22
 #-------------------------------
 [LEADER_Sofia,Sofia,1]
 Items = MEGARING
@@ -407,55 +407,49 @@ Pokemon = STEENEE,23
 Pokemon = SYLVEON,23
 Pokemon = LOPUNNY,24
 	Shiny = true
-Pokemon = DEDENNE,24
-Pokemon = TSAREENA,24
-Pokemon = GRENINJA,24
+Pokemon = DEDENNE,23
+Pokemon = TSAREENA,23
+Pokemon = FROGADIER,23
 #-------------------------------
 [LAIRITEGRUNT,Peter]
 LoseText = Not this again...
-Pokemon = RATICATE,24
+Pokemon = RATICATE,22
 	Form = 1
-Pokemon = GOLBAT,24
-Pokemon = SANDSLASH,24
+Pokemon = GOLBAT,22
+Pokemon = SANDSLASH,22
 #-------------------------------
 [LAIRITEGRUNT,Xander]
 LoseText = Guess I concede.
-Pokemon = ARCANINE,25
-Pokemon = MAGMAR,25
-Pokemon = RAICHU,26
-#-------------------------------
-[LAIRITEGRUNT,Xander]
-LoseText = Guess I concede.
-Pokemon = ARCANINE,25
-Pokemon = MAGMAR,25
-Pokemon = RAICHU,26
+Pokemon = ARCANINE,22
+Pokemon = MAGMAR,23
+Pokemon = RAICHU,23
 #-------------------------------
 [LAIRITEGRUNT,Marlow]
 LoseText = Welp...
-Pokemon = MAGCARGO,26
-Pokemon = HELIOPTILE,26
-Pokemon = WOOPER,26
+Pokemon = MAGCARGO,23
+Pokemon = HELIOPTILE,22
+Pokemon = WOOPER,23
 #-------------------------------
 [LAIRITEGRUNT,Andrew]
 LoseText = Ouchie
-Pokemon = ARBOK,26
-Pokemon = ABSOL,26
-Pokemon = ANORITH,26
+Pokemon = ARBOK,22
+Pokemon = ABSOL,23
+Pokemon = ANORITH,22
 #-------------------------------
 [LAIRITEGRUNT,Zachery]
 LoseText = Not my Dusclops...
-Pokemon = DUSCLOPS,28
+Pokemon = DUSCLOPS,25
 #-------------------------------
 [LAIRITEADMIN,Caine]
 LoseText = My years of experience down the drain!
-Pokemon = SCRAFTY,28
-Pokemon = PARASECT,28
-Pokemon = PUPITAR,28
-Pokemon = WEEPINBELL,28
+Pokemon = SCRAFTY,23
+Pokemon = PARASECT,24
+Pokemon = PUPITAR,24
+Pokemon = WEEPINBELL,23
 #-------------------------------
 [LAIRITEADMIN,Conker]
 LoseText = A power so far off the scale has defeated me.
-Pokemon = SCYTHER,28
-Pokemon = CRUSTLE,28
-Pokemon = VIKAVOLT,28
-Pokemon = WEEZING,28
+Pokemon = SCYTHER,24
+Pokemon = CRUSTLE,24
+Pokemon = VIKAVOLT,24
+Pokemon = WEEZING,24
