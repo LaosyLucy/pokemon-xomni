@@ -209,3 +209,7 @@ Sprite Credits:
 <b>Gen 4 and 5 Trainer sprites and PBS (unused mostly)</b>
 https://eeveeexpo.com/resources/391/
 Mr. Gela/theo#7722
+
+<b>Those Chests from Colosseum 1.1.0</b>
+https://eeveeexpo.com/resources/1439/
+Nezzy
