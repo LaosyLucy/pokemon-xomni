@@ -401,8 +401,8 @@ Gender = Male
 BaseMoney = 800
 SkillLevel = 10
 #-------------------------------
-[LAIRITEELITE]
-Name = Lairite Elite
+[LAIRITEADMIN]
+Name = Lairite Admin
 Gender = Male
 BaseMoney = 4000
 SkillLevel = 50

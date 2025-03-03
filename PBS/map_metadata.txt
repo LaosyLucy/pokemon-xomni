@@ -481,7 +481,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
-BattleBack = field
+BattleBack = city
 #-------------------------------
 [103]   # Route A5
 Name = Route A5
@@ -489,4 +489,12 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
-BattleBack = field
+BattleBack = ice
+#-------------------------------
+[104]   # Basalite Fields
+Name = Basalite Fields
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = rocky

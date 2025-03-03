@@ -423,3 +423,39 @@ LoseText = Guess I concede.
 Pokemon = ARCANINE,25
 Pokemon = MAGMAR,25
 Pokemon = RAICHU,26
+#-------------------------------
+[LAIRITEGRUNT,Xander]
+LoseText = Guess I concede.
+Pokemon = ARCANINE,25
+Pokemon = MAGMAR,25
+Pokemon = RAICHU,26
+#-------------------------------
+[LAIRITEGRUNT,Marlow]
+LoseText = Welp...
+Pokemon = MAGCARGO,26
+Pokemon = HELIOPTILE,26
+Pokemon = WOOPER,26
+#-------------------------------
+[LAIRITEGRUNT,Andrew]
+LoseText = Ouchie
+Pokemon = ARBOK,26
+Pokemon = ABSOL,26
+Pokemon = ANORITH,26
+#-------------------------------
+[LAIRITEGRUNT,Zachery]
+LoseText = Not my Dusclops...
+Pokemon = DUSCLOPS,28
+#-------------------------------
+[LAIRITEADMIN,Caine]
+LoseText = My years of experience down the drain!
+Pokemon = SCRAFTY,28
+Pokemon = PARASECT,28
+Pokemon = PUPITAR,28
+Pokemon = WEEPINBELL,28
+#-------------------------------
+[LAIRITEADMIN,Conker]
+LoseText = A power so far off the scale has defeated me.
+Pokemon = SCYTHER,28
+Pokemon = CRUSTLE,28
+Pokemon = VIKAVOLT,28
+Pokemon = WEEZING,28
