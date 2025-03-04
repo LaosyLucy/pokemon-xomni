@@ -516,8 +516,14 @@ BattleBack = snow
 #-------------------------------
 [118]   # Ice Station Interior
 Name = Ice Station
-Outdoor = false
-ShowArea = false
-Bicycle = false
 MapPosition = 0,24,24
 BattleBack = indoor
+#-------------------------------
+[119]   # Route A8
+Name = Route A8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+MapPosition = 0,24,24
+BattleBack = snow

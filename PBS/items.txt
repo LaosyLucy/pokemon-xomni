@@ -6579,3 +6579,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A signature from Sofia Hopkins.
+#-------------------------------
+[ICEBREAKER]
+Name = Icebreaker
+NamePlural = Icebreakers
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A pickaxe designed to break ice rocks.
