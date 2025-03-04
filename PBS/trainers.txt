@@ -515,3 +515,45 @@ LoseText = My babies..
 Pokemon = PROBOPASS,26
 Pokemon = STOUTLAND,28
 Pokemon = KRICKETUNE,26
+#-------------------------------
+[LAIRITEGRUNT,Sarge]
+LoseText = This is terrible.
+Pokemon = NIDORINO,28
+Pokemon = NIDORINA,28
+#-------------------------------
+[LAIRITEGRUNT,Rike]
+LoseText = This is terrible.
+Pokemon = TYRUNT,29
+Pokemon = DEINO,26
+#-------------------------------
+[LAIRITEGRUNT,Lament]
+LoseText = This is terrible.
+Pokemon = TYRUNT,29
+Pokemon = DEINO,26
+#-------------------------------
+[LAIRITEGRUNT,Carvan]
+LoseText = Might as well leave then...
+Pokemon = DRIFLOON,27
+Pokemon = PIDGEOTTO,28
+Pokemon = GROTLE,28
+#-------------------------------
+[LAIRITEGRUNT,Sepex]
+LoseText = Despicable!
+Pokemon = SHELGON,25
+Pokemon = AZUMARILL,27
+Pokemon = XATU,28
+#-------------------------------
+[LAIRITEADMIN,Blits]
+LoseText = How could you??
+Pokemon = KROKOROK,25
+Pokemon = FRAXURE,30
+
+
+
+
+
+
+
+
+
+
