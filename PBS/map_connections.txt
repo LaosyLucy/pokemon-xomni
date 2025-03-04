@@ -64,13 +64,15 @@
 84,South,0,83,North,30
 # Route A4 (86) - Kerenca Town (87)
 86,36,29,87,0,0
-# Route A7 (116) - Ice Station (117)
-116,South,0,117,North,0
 # Wynnoa City (89) - Route A7 (116)
 89,South,75,116,North,0
 # Route A6 (103) - Wynnoa City (89)
 103,South,0,89,North,93
 # Basalite Fields (104) - Route A6 (103)
 104,South,0,103,North,1
+# Route A7 (116) - Ice Station (117)
+116,South,0,117,North,0
 # Ice Station (117) - Route A8 (119)
 117,43,0,119,0,75
+# Skrybel Town (126) - Route A9 (124)
+126,South,0,124,North,1

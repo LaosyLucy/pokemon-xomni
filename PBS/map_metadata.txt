@@ -527,3 +527,32 @@ Bicycle = true
 Weather = Blizzard,100
 MapPosition = 0,24,24
 BattleBack = snow
+#-------------------------------
+[123]   # Cernagov Plateau Int
+Name = Cernagov Plateau
+ShowArea = true
+MapPosition = 0,24,24
+BattleBack = cave
+#-------------------------------
+[124]   # Route A9
+Name = Route A9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[125]   # Cernagov Plateau F2
+Name = Cernagov Plateau
+Weather = Blizzard,100
+MapPosition = 0,24,24
+BattleBack = cave
+#-------------------------------
+[126]   # Skrybel Town
+Name = Skrybel Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = city

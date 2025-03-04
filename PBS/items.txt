@@ -6587,3 +6587,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A pickaxe designed to break ice rocks.
+#-------------------------------
+[WEATHERMANSN]
+Name = Weathermans Note
+NamePlural = Weathermans Notes
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A note from the mysterious Weatherman in another language.

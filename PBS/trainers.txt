@@ -482,4 +482,36 @@ Pokemon = MAGNETON,24
 Pokemon = TOGEDEMARU,25
 Pokemon = PLUSLE,19
 Pokemon = MINUN,19
-
+#-------------------------------
+[SCOUTGIRL,Ellie]
+LoseText = Bahhh, my trip is ruined!
+Pokemon = BUNEARY,23
+Pokemon = PIKACHU,24
+#-------------------------------
+[HIKER,Sam]
+LoseText = Porque?!
+Pokemon = SNORUNT,27
+Pokemon = GRAVELER,27
+#-------------------------------
+[HIKER,Morris]
+LoseText = My schemes ruined
+Pokemon = HYPNO,26
+Pokemon = NIDORINO,26
+Pokemon = BEARTIC,27
+#-------------------------------
+[HIKER,Joseph]
+LoseText = My babies..
+Pokemon = ELGYEM,26
+Pokemon = EELEKTROSS,27
+#-------------------------------
+[HIKER,Elvis]
+LoseText = My babies..
+Pokemon = MARACTUS,27
+Pokemon = LOMBRE,26
+Pokemon = CHATOT,22
+#-------------------------------
+[HIKER,Steele]
+LoseText = My babies..
+Pokemon = PROBOPASS,26
+Pokemon = STOUTLAND,28
+Pokemon = KRICKETUNE,26
