@@ -582,13 +582,25 @@ Pokemon = LUXIO,32
 Pokemon = JOLTEON,32
 Pokemon = GALVANTULA,32
 Pokemon = DURALUDON,32
-
-
-
-
-
-
-
-
-
-
+#-------------------------------
+[ACETRAINERM,David]
+LoseText = Well played.
+Pokemon = GIGALITH,30
+Pokemon = FEAROW,30
+#-------------------------------
+[ACETRAINERM,Benji]
+LoseText = Well played.
+Pokemon = DUGTRIO,30
+Pokemon = SANDYGAST,30
+#-------------------------------
+[ACETRAINERM,Marcus]
+LoseText = Well played.
+Pokemon = NIDORINO,30
+Pokemon = FLAREON,30 
+Pokemon = VENOMOTH,31
+#-------------------------------
+[ACETRAINERF,Angelina]
+LoseText = Well played.
+Pokemon = COMBUSKEN,30
+Pokemon = PANGORO,30
+Pokemon = MACHAMP,31
