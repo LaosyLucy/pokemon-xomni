@@ -481,3 +481,28 @@ BaseMoney = 16
 Name = Leader
 Gender = Female
 BaseMoney = 100
+#-------------------------------
+[STUDENTF]
+Name = Student
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[STUDENTM]
+Name = Student
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[LEADER_Justyn]
+Name = Leader
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[ACETRAINERM]
+Name = Ace Trainer
+Gender = Male
+BaseMoney = 10
+#-------------------------------
+[ACETRAINERF]
+Name = Ace Trainer
+Gender = Female
+BaseMoney = 10

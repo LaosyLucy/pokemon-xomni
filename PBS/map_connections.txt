@@ -74,5 +74,9 @@
 116,South,0,117,North,0
 # Ice Station (117) - Route A8 (119)
 117,43,0,119,0,75
-# Skrybel Town (126) - Route A9 (124)
-126,South,0,124,North,1
+# Skrybel Town (126) - Route A10 (130)
+126,North,0,130,South,0
+# Hweins City (131) - Route A10 (130)
+131,South,11,130,North,0
+# Route A9 (124) - Skrybel Town (126)
+124,North,1,126,South,0

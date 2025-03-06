@@ -528,8 +528,8 @@ Pokemon = DEINO,26
 #-------------------------------
 [LAIRITEGRUNT,Lament]
 LoseText = This is terrible.
-Pokemon = TYRUNT,29
-Pokemon = DEINO,26
+Pokemon = RHYHORN,27
+Pokemon = JIGGLYPUFF,26
 #-------------------------------
 [LAIRITEGRUNT,Carvan]
 LoseText = Might as well leave then...
@@ -547,6 +547,41 @@ Pokemon = XATU,28
 LoseText = How could you??
 Pokemon = KROKOROK,25
 Pokemon = FRAXURE,30
+#-------------------------------
+[STUDENTF,Amelia]
+LoseText = Pog not.
+Pokemon = COMFEY,28
+Pokemon = CHARMELEON,29
+#-------------------------------
+[STUDENTF,Ava]
+LoseText = Nooo!!
+Pokemon = STARAVIA,29
+Pokemon = SIMIPOUR,29
+#-------------------------------
+[STUDENTM,Michael]
+LoseText = Alas...
+Pokemon = DOUBLADE,29
+Pokemon = HAUNTER,29
+#-------------------------------
+[STUDENTM,Oliver]
+LoseText = Stop this!
+Pokemon = SIMISAGE,29
+Pokemon = MUNCHLAX,29
+#-------------------------------
+[STUDENTF,Laura]
+LoseText = Nooo!!
+Pokemon = BOLDORE,29
+Pokemon = SANDSLASH,29
+#-------------------------------
+[LEADER_Justyn,Justyn]
+LoseText = We didn't modernise enough...
+Pokemon = ELECTABUZZ,32
+Pokemon = RAICHU,32
+	Form = 1
+Pokemon = LUXIO,32
+Pokemon = JOLTEON,32
+Pokemon = GALVANTULA,32
+Pokemon = DURALUDON,32
 
 
 

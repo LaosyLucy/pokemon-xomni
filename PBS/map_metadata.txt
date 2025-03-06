@@ -517,7 +517,7 @@ BattleBack = snow
 [118]   # Ice Station Interior
 Name = Ice Station
 MapPosition = 0,24,24
-BattleBack = indoor
+BattleBack = indoor2
 #-------------------------------
 [119]   # Route A8
 Name = Route A8
@@ -532,7 +532,7 @@ BattleBack = snow
 Name = Cernagov Plateau
 ShowArea = true
 MapPosition = 0,24,24
-BattleBack = cave
+BattleBack = cave2
 #-------------------------------
 [124]   # Route A9
 Name = Route A9
@@ -545,12 +545,27 @@ BattleBack = field
 #-------------------------------
 [125]   # Cernagov Plateau F2
 Name = Cernagov Plateau
-Weather = Blizzard,100
 MapPosition = 0,24,24
-BattleBack = cave
+BattleBack = cave2
 #-------------------------------
 [126]   # Skrybel Town
 Name = Skrybel Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = city
+#-------------------------------
+[130]   # Route A10
+Name = Route A10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[131]   # Hweins City
+Name = Hweins City
 Outdoor = true
 ShowArea = true
 Bicycle = true
