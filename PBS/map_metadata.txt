@@ -571,3 +571,28 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = city
+#-------------------------------
+[136]   # Route A11
+Name = Route A11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[137]   # Hveden Canal
+Name = Hveden Canal
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[138]   # Matkalvina Forest
+Name = Matkalvina Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+MapPosition = 0,24,24
+BattleBack = forest
