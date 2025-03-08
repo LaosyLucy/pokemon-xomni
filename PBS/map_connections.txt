@@ -24,46 +24,22 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
-# Esperiy Town (22) - Route A1 (32)
-22,South,22,32,North,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
-# Route A1 (32) - Route A4 (86)
-32,South,100,86,North,0
-# Inysta Town (43) - Route A1 (32)
-43,North,0,32,South,0
-# Route A2 (81) - Route A1 (32)
-81,North,40,32,South,0
-# InystanBeaches (82) - Route A1 (32)
-82,East,0,32,West,160
-# Route A3 (79) - Route A1 (32)
-79,North,0,32,South,40
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
-# Route A2 (81) - Inysta Town (43)
-81,East,0,43,West,0
-# InystanBeaches (82) - Inysta Town (43)
-82,East,0,43,West,80
-# Route A3 (79) - Inysta Town (43)
-79,West,0,43,East,0
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route A3 (79) - Route A4 (86)
-79,East,0,86,West,0
-# InystanBeaches (82) - Route A2 (81)
-82,North,30,81,South,0
 # RouteA2northbit (84) - InystanBeachesLugia (83)
 84,South,0,83,North,30
-# Route A4 (86) - Kerenca Town (87)
-86,36,29,87,0,0
 # Wynnoa City (89) - Route A7 (116)
 89,South,75,116,North,0
 # Route A6 (103) - Wynnoa City (89)
@@ -74,13 +50,53 @@
 116,South,0,117,North,0
 # Ice Station (117) - Route A8 (119)
 117,43,0,119,0,75
+# Route A9 (124) - Skrybel Town (126)
+124,North,1,126,South,0
+# Skrybel Town (126) - Route A10 (130)
+126,North,0,130,South,0
 # Route A10 (130) - Hweins City (131)
 130,North,0,131,South,11
 # Route A11 (136) - Hweins City (131)
 136,East,0,131,West,0
-# Skrybel Town (126) - Route A10 (130)
-126,North,0,130,South,0
-# Route A9 (124) - Skrybel Town (126)
-124,North,1,126,South,0
 # Hveden Canal (137) - Route A11 (136)
 137,East,0,136,West,9
+# Route A15 (144) - Karvalaar City (145)
+144,North,0,145,South,15
+# DwarvenCliffs (149) - Karvalaar City (145)
+149,East,0,145,West,19
+# Route A14 (143) - Route A15 (144)
+143,North,0,144,South,0
+# Route A13 (142) - Route A14 (143)
+142,North,0,143,South,0
+# InystaBeachWest (139) - Route A13 (142)
+139,North,0,142,South,34
+# Route A12 (140) - Route A13 (142)
+140,North,16,142,South,0
+# InystanBeaches (82) - InystaBeachWest (139)
+82,West,0,139,East,8
+# Route A12 (140) - InystaBeachWest (139)
+140,East,0,139,West,0
+# Route A1 (32) - InystanBeaches (82)
+32,West,160,82,East,0
+# Inysta Town (43) - InystanBeaches (82)
+43,West,80,82,East,0
+# Route A2 (81) - InystanBeaches (82)
+81,South,0,82,North,30
+# Esperiy Town (22) - Route A1 (32)
+22,South,22,32,North,0
+# Route A4 (86) - Route A1 (32)
+86,North,0,32,South,100
+# Route A3 (79) - Route A1 (32)
+79,North,0,32,South,40
+# Inysta Town (43) - Route A1 (32)
+43,North,0,32,South,0
+# Route A2 (81) - Route A1 (32)
+81,North,40,32,South,0
+# Route A3 (79) - Route A4 (86)
+79,East,0,86,West,0
+# Inysta Town (43) - Route A3 (79)
+43,East,0,79,West,0
+# Route A2 (81) - Inysta Town (43)
+81,East,0,43,West,0
+# Karvalaar City (145) - Kerenca Town (87)
+145,330,172,87,0,0

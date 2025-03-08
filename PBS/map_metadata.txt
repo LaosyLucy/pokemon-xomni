@@ -596,3 +596,50 @@ Bicycle = true
 Weather = Storm,100
 MapPosition = 0,24,24
 BattleBack = forest
+#-------------------------------
+[139]   # Inysta Beach West
+Name = Inysta Beach West
+Outdoor = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = sand
+#-------------------------------
+[140]   # Route A12
+Name = Route A12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[142]   # Route A13
+Name = Route A13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[143]   # Route A14
+Name = Route A14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[144]   # Route A15
+Name = Route A15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[145]   # Karvalaar City
+Name = Karvalaar City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = rocky

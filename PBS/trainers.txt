@@ -81,9 +81,14 @@ LoseText = Our teamwork failed!
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
 #-------------------------------
-[POKEMONTRAINER_May,May]
+[POKEMONTRAINER_Catalina,Catalina]
 LoseText = ...
-Pokemon = COMBUSKEN,19
+Pokemon = MEGANIUM,35
+Pokemon = SERPERIOR,36
+Pokemon = KIRLIA,35
+Pokemon = CORVISQUIRE,35
+Pokemon = CAMERUPT,34
+Pokemon = CLEFABLE,35
 #-------------------------------
 [SWIMMER2_F,Ariel]
 LoseText = Washed out!
@@ -604,3 +609,128 @@ LoseText = Well played.
 Pokemon = COMBUSKEN,30
 Pokemon = PANGORO,30
 Pokemon = MACHAMP,31
+#-------------------------------
+[RANGERF,Abbie]
+LoseText = My babies...
+Pokemon = BUTTERFREE,30
+Pokemon = BEEDRILL,31
+#-------------------------------
+[RANGERF,Mariana]
+LoseText = Not my peeeps!
+Pokemon = FEAROW,30
+Pokemon = PAWNIARD,30
+#-------------------------------
+[RANGERF,Delilah]
+LoseText = This is devestating...
+Pokemon = HELIOLISK,30
+Pokemon = PIDGEOTTO,30
+Pokemon = CHARJABUG,30
+#-------------------------------
+[RANGERF,Asha]
+LoseText = I love little pranks...
+Pokemon = GUMSHOOS,30
+Pokemon = GOTHORITA,32
+#-------------------------------
+[RANGERF,Roisin]
+LoseText = We love Ireland here.
+Pokemon = GALVANTULA,30
+Pokemon = XATU,31
+Pokemon = PINSIR,31
+#-------------------------------
+[RANGERF,Fiona]
+LoseText = I'm getting too old for this.
+Pokemon = ROSELIA,30
+Pokemon = NOCTOWL,30
+Pokemon = MACHAMP,30
+#-------------------------------
+[RANGERM,Martin]
+LoseText = These boots were made for fighting.
+Pokemon = LUNATONE,32
+#-------------------------------
+[RANGERM,Martinus]
+LoseText = The sun is beautiful.
+Pokemon = SOLROCK,32
+#-------------------------------
+[RANGERM,Brent]
+LoseText = I love my Pokemon...
+Pokemon = TREVENANT,32
+Pokemon = GOURGEIST,32
+#-------------------------------
+[RANGERM,Salvador]
+LoseText = My Bronzor attack didn't work...
+Pokemon = BRONZOR,35
+#-------------------------------
+[BLACKBELT,Hugo]
+LoseText = Your moves are great!
+Pokemon = HITMONCHAN,34
+Pokemon = MACHAMP,31
+#-------------------------------
+[BLACKBELT,George]
+LoseText = Spectacular!
+Pokemon = HITMONLEE,34
+Pokemon = PRIMEAPE,31
+#-------------------------------
+[BLACKBELT,Ben]
+LoseText = Fighting-types are my jam!
+Pokemon = HITMONTOP,34
+Pokemon = THROH,31
+#-------------------------------
+[BLACKBELT,Finley]
+LoseText = Awful...
+Pokemon = SAWK,31
+Pokemon = MIENSHAO,32
+Pokemon = PANCHAM,28
+#-------------------------------
+[BLACKBELT,Rory]
+LoseText = Disasterous...
+Pokemon = LUCARIO,33
+Pokemon = PASSIMIAN,32
+Pokemon = MEDICHAM,32
+#-------------------------------
+[COOLCOUPLE,Maara & Kuca]
+LoseText = Noooo!! 
+Pokemon = QUILAVA,1
+Pokemon = QUILAVA,1
+#-------------------------------
+[COOLCOUPLE,Eysuoka & Kalo]
+LoseText = Terrible...
+Pokemon = RATICATE,1
+Pokemon = RATICATE,1
+#-------------------------------
+[COOLCOUPLE,Ashar & Kizh]
+LoseText = This was trouble for our Dark-types
+Pokemon = THIEVUL,1
+Pokemon = THIEVUL,1
+#-------------------------------
+[COOLCOUPLE,Maara & KucaS]
+LoseText = Noooo!! 
+Pokemon = QUILAVA,34
+Pokemon = ABSOL,34
+Pokemon = MIGHTYENA,34
+Pokemon = PERSIAN,34
+	Form = 1
+#-------------------------------
+[COOLCOUPLE,Eysuoka & KaloS]
+LoseText = Terrible...
+Pokemon = RATICATE,34
+	Form = 1
+Pokemon = HONCHKROW,34
+Pokemon = PUPITAR,34
+Pokemon = GRENINJA,34
+#-------------------------------
+[COOLCOUPLE,Ashar & KizhS]
+LoseText = This was trouble for our Dark-types
+Pokemon = THIEVUL,34
+Pokemon = KROOKODILE,34
+Pokemon = LIEPARD,34
+Pokemon = LINOONE,34
+	Form = 1
+#-------------------------------
+[LEADER_Catalina,Catalina]
+LoseText = Your strategies held up.
+Pokemon = FLYGON,36
+Pokemon = COPPERAJAH,36
+Pokemon = RAPIDASH,36
+Pokemon = SIRFETCHD,36
+Pokemon = CHESNAUGHT,36
+Pokemon = GALLADE,36
