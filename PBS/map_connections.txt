@@ -60,22 +60,16 @@
 136,East,0,131,West,0
 # Hveden Canal (137) - Route A11 (136)
 137,East,0,136,West,9
-# Route A15 (144) - Karvalaar City (145)
-144,North,0,145,South,15
-# DwarvenCliffs (149) - Karvalaar City (145)
-149,East,0,145,West,19
-# Route A14 (143) - Route A15 (144)
-143,North,0,144,South,0
-# Route A13 (142) - Route A14 (143)
-142,North,0,143,South,0
-# InystaBeachWest (139) - Route A13 (142)
-139,North,0,142,South,34
-# Route A12 (140) - Route A13 (142)
-140,North,16,142,South,0
+# InystaBeachWest (139) - Route A12 (140)
+139,West,0,140,East,0
+# Route A13 (142) - Route A12 (140)
+142,South,0,140,North,16
+# Route A16 (156) - Route A12 (140)
+156,East,0,140,West,0
 # InystanBeaches (82) - InystaBeachWest (139)
 82,West,0,139,East,8
-# Route A12 (140) - InystaBeachWest (139)
-140,East,0,139,West,0
+# Route A13 (142) - InystaBeachWest (139)
+142,South,34,139,North,0
 # Route A1 (32) - InystanBeaches (82)
 32,West,160,82,East,0
 # Inysta Town (43) - InystanBeaches (82)
@@ -98,5 +92,19 @@
 43,East,0,79,West,0
 # Route A2 (81) - Inysta Town (43)
 81,East,0,43,West,0
-# Karvalaar City (145) - Kerenca Town (87)
-145,330,172,87,0,0
+# Route A14 (143) - Route A13 (142)
+143,South,0,142,North,0
+# Route A16 (156) - Route A13 (142)
+156,North,66,142,South,0
+# Lucero Town (157) - Route A13 (142)
+157,North,116,142,South,0
+# Route A15 (144) - Route A14 (143)
+144,South,0,143,North,0
+# Karvalaar City (145) - Route A15 (144)
+145,South,15,144,North,0
+# DwarvenCliffs (149) - Karvalaar City (145)
+149,East,0,145,West,19
+# Route A12 (140) - Kerenca Town (87)
+140,331,0,87,0,43
+# Lucero Town (157) - Route A16 (156)
+157,East,0,156,West,0
