@@ -597,7 +597,7 @@ Weather = Storm,100
 MapPosition = 0,24,24
 BattleBack = forest
 #-------------------------------
-[139]   # Inysta Beach West
+[139]   # InystaBeachWest
 Name = Inysta Beach West
 Outdoor = true
 Bicycle = true
@@ -643,3 +643,69 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = rocky
+#-------------------------------
+[149]   # DwarvenCliffs
+Name = Dwarven Cliffs
+Outdoor = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[150]   # DwarvenCliffs1
+Name = Dwarven Caverns
+ShowArea = true
+MapPosition = 0,24,24
+BattleBack = rocky
+#-------------------------------
+[151]   # DwarvenCliffs2
+Name = Dwarven Caverns
+MapPosition = 0,24,24
+BattleBack = rocky
+#-------------------------------
+[152]   # DwarvenCliffs3
+Name = Dwarven Caverns
+MapPosition = 0,24,24
+BattleBack = rocky
+#-------------------------------
+[153]   # DwarvenCliffs4
+Name = Dwarven Caverns
+MapPosition = 0,24,24
+BattleBack = rocky
+#-------------------------------
+[156]   # Route A16
+Name = Route A16
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[157]   # Lucero Town
+Name = Lucero Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[158]   # Route A17
+Name = Route A17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[159]   # Kessel City
+Name = Kessel City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[160]   # Route A18
+Name = Route A18
+Outdoor = true
+ShowArea = true
+Weather = Sandstorm,100

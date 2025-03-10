@@ -6491,3 +6491,27 @@ BackSprite = 0,35
 FrontSprite = 0,5
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[MIMIGEIST]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[SAUSCAL]
+BackSprite = 0,40
+FrontSprite = 0,31
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[STIMID]
+BackSprite = 0,33
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[PROSMAUI]
+BackSprite = 0,20
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2

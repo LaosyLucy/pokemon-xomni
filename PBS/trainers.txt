@@ -283,27 +283,28 @@ Pokemon = OVINURA,5
 #-------------------------------
 [RIVALARNE,Albert,3]
 LoseText = For a recluse, that was pretty good hehe
-Pokemon = ROWLET,5
+Pokemon = SAUSCAL,5
 #-------------------------------
 [RIVALARNE,Albert,4]
-LoseText = Okay smart guy.
-Pokemon = EEVEE,10
-Pokemon = EMOLGA,10
-Pokemon = ROCKRUFF,10
+LoseText = Maybe I should do some more training...
+Pokemon = IGNAA,34
+Pokemon = TENTACRUEL,34
+Pokemon = TANGROWTH,34
+Pokemon = SNORLAX,34
 #-------------------------------
 [RIVALARNE,Albert,5]
-LoseText = Well okay then...
-Pokemon = EEVEE,20
-Pokemon = EMOLGA,20
-Pokemon = BOLDORE,20
-Pokemon = LYCANROC,20
-Pokemon = PIDGEOTTO,20
+LoseText = Maybe I should do some more training...
+Pokemon = ASTROPOLE,34
+Pokemon = HOUNDOOM,34
+Pokemon = SWADLOON,34
+Pokemon = SNORLAX,34
 #-------------------------------
 [RIVALARNE,Albert,6]
-LoseText = Okay smart guy.
-Pokemon = EEVEE,10
-Pokemon = EMOLGA,10
-Pokemon = ROCKRUFF,10
+LoseText = Maybe I should do some more training...
+Pokemon = STIMID,34
+Pokemon = POLIWRATH,34
+Pokemon = LAMPENT,34
+Pokemon = SNORLAX,34
 #-------------------------------
 [RIVALARNE,Albert,7]
 LoseText = Okay smart guy.
