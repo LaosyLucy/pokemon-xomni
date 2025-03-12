@@ -521,3 +521,18 @@ BaseMoney = 10
 Name = Leader
 Gender = Female
 BaseMoney = 100
+#-------------------------------
+[DWARF]
+Name = Dwarf Miner
+Gender = Male
+BaseMoney = 10
+#-------------------------------
+[RESISTANCEM]
+Name = Resistance Member
+Gender = Male
+BaseMoney = 45
+#-------------------------------
+[RESISTANCEF]
+Name = Resistance Member
+Gender = Female
+BaseMoney = 45

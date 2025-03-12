@@ -384,6 +384,7 @@ Pokemon = AMAURA,18
 Pokemon = FROSMOTH,19
 #-------------------------------
 [LEADER_Sofia,Sofia]
+Items = FULLRESTORE,POTION,POTION
 LoseText = Hold your horses...
 Pokemon = NINETALES,20
 	Form = 1
@@ -580,6 +581,7 @@ Pokemon = BOLDORE,29
 Pokemon = SANDSLASH,29
 #-------------------------------
 [LEADER_Justyn,Justyn]
+Items = FULLRESTORE,POTION,POTION
 LoseText = We didn't modernise enough...
 Pokemon = ELECTABUZZ,32
 Pokemon = RAICHU,32
@@ -728,6 +730,7 @@ Pokemon = LINOONE,34
 	Form = 1
 #-------------------------------
 [LEADER_Catalina,Catalina]
+Items = FULLRESTORE,POTION,POTION
 LoseText = Your strategies held up.
 Pokemon = FLYGON,36
 Pokemon = COPPERAJAH,36
@@ -735,3 +738,12 @@ Pokemon = RAPIDASH,36
 Pokemon = SIRFETCHD,36
 Pokemon = CHESNAUGHT,36
 Pokemon = GALLADE,36
+#-------------------------------
+[DWARF,Yarn]
+LoseText = Gotta keep digging.
+Pokemon = GOLEM,27
+Pokemon = RHYDON,29
+#-------------------------------
+[RESISTANCEF,Reina]
+LoseText = This is not good.
+Pokemon = EXEGGUTOR,34
