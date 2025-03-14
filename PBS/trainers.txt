@@ -747,3 +747,38 @@ Pokemon = RHYDON,29
 [RESISTANCEF,Reina]
 LoseText = This is not good.
 Pokemon = EXEGGUTOR,34
+#-------------------------------
+[BATTLEGIRL,Selia]
+LoseText = Devastating...
+Pokemon = HITMONCHAN,35
+Pokemon = HOUNDOOM,38
+Pokemon = JELLICENT,35
+#-------------------------------
+[BATTLEGIRL,Abby]
+LoseText = Devastating...
+Pokemon = EXPLOUD,36
+Pokemon = HITMONLEE,35
+Pokemon = OMASTAR,35
+#-------------------------------
+[BLACKBELT,Zach]
+LoseText = Devastating...
+Pokemon = THROH,35
+Pokemon = WOBBUFFET,37
+Pokemon = SAWK,37
+#-------------------------------
+[BLACKBELT,Nick]
+LoseText = Devastating...
+Pokemon = CRABRAWLER,36
+Pokemon = MEDICHAM,36
+Pokemon = PANGORO,36
+#-------------------------------
+[LEADER_Bruno,Bruno]
+Items = MEGARING
+LoseText = Lucky bounce. You didn't actually win.
+Pokemon = MIENSHAO,38
+Pokemon = LUCARIO,38
+Pokemon = HARIYAMA,38
+Pokemon = POLIWRATH,38
+Pokemon = ABSOL,38
+Pokemon = BLAZIKEN,40
+	Item = BLAZIKENITE

@@ -60,12 +60,10 @@
 136,East,0,131,West,0
 # Hveden Canal (137) - Route A11 (136)
 137,East,0,136,West,9
-# Route A15 (144) - Karvalaar City (145)
-144,North,0,145,South,15
-# DwarvenCliffs (149) - Karvalaar City (145)
-149,East,0,145,West,19
 # Route A14 (143) - Route A15 (144)
 143,North,0,144,South,0
+# Karvalaar City (145) - Route A15 (144)
+145,South,15,144,North,0
 # Route A13 (142) - Route A14 (143)
 142,North,0,143,South,0
 # Kessel City (159) - Route A14 (143)
@@ -112,8 +110,6 @@
 156,East,0,140,West,0
 # Kessel City (159) - Route A12 (140)
 159,South,150,140,North,0
-# Karvalaar City (145) - Kerenca Town (87)
-145,330,172,87,0,0
 # Lucero Town (157) - Route A16 (156)
 157,East,0,156,West,0
 # Kessel City (159) - Route A16 (156)
@@ -124,3 +120,15 @@
 159,East,50,157,West,0
 # Kessel City (159) - Route A17 (158)
 159,South,0,158,North,0
+# DwarvenCliffs (149) - Karvalaar City (145)
+149,East,0,145,West,19
+# Route A15 (144) - Kerenca Town (87)
+144,315,107,87,0,0
+# Route A19 (168) - Bazir City (163)
+168,East,0,163,West,39
+# Lothyran City (169) - Bazir City (163)
+169,East,0,163,West,134
+# Route A20 (170) - Route A19 (168)
+170,North,0,168,South,21
+# Lothyran City (169) - Route A20 (170)
+169,North,26,170,South,0

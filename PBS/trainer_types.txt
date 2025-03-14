@@ -536,3 +536,13 @@ BaseMoney = 45
 Name = Resistance Member
 Gender = Female
 BaseMoney = 45
+#-------------------------------
+[BATTLEGIRL]
+Name = Battle Girl
+Gender = Female
+BaseMoney = 10
+#-------------------------------
+[LEADER_Bruno]
+Name = Leader
+Gender = Male
+BaseMoney = 100
