@@ -401,9 +401,21 @@ Gender = Male
 BaseMoney = 25
 SkillLevel = 10
 #-------------------------------
+[LAIRITEGRUNTF]
+Name = Lairite Goon
+Gender = Female
+BaseMoney = 25
+SkillLevel = 10
+#-------------------------------
 [LAIRITEADMIN]
 Name = Lairite Admin
 Gender = Male
+BaseMoney = 75
+SkillLevel = 50
+#-------------------------------
+[LAIRITEADMINF]
+Name = Lairite Admin
+Gender = Female
 BaseMoney = 75
 SkillLevel = 50
 #-------------------------------
@@ -545,4 +557,9 @@ BaseMoney = 10
 [LEADER_Bruno]
 Name = Leader
 Gender = Male
+BaseMoney = 100
+#-------------------------------
+[LEADER_Beleth]
+Name = Leader
+Gender = Female
 BaseMoney = 100
