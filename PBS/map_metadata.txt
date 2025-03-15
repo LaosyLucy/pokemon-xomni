@@ -709,3 +709,35 @@ Name = Route A18
 Outdoor = true
 ShowArea = true
 Weather = Sandstorm,100
+#-------------------------------
+[168]   # Route A19
+Name = Route A19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[170]   # Route A20
+Name = Route A19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[163]   # Bazir City
+Name = Bazir City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[169]   # Lothyran City
+Name = Lothyran City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field

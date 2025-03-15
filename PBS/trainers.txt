@@ -733,6 +733,7 @@ Pokemon = ROCKRUFF,27
 Pokemon = SPHEAL,27
 Pokemon = EMOLGA,28
 Pokemon = GOTHORITA,32
+Pokemon = SMEARGLE,25
 Pokemon = EEVEE,33
 #-------------------------------
 [DWARF,Yarn]
