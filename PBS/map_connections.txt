@@ -60,16 +60,48 @@
 136,East,0,131,West,0
 # Hveden Canal (137) - Route A11 (136)
 137,East,0,136,West,9
-# Route A14 (143) - Route A15 (144)
-143,North,0,144,South,0
-# Karvalaar City (145) - Route A15 (144)
-145,South,15,144,North,0
-# Route A13 (142) - Route A14 (143)
-142,North,0,143,South,0
-# Kessel City (159) - Route A14 (143)
-159,North,166,143,South,0
-# InystaBeachWest (139) - Route A13 (142)
-139,North,0,142,South,34
+# Route A19 (168) - Bazir City (163)
+168,East,0,163,West,39
+# Lothyran City (169) - Bazir City (163)
+169,East,0,163,West,134
+# Route A20 (170) - Route A19 (168)
+170,North,0,168,South,21
+# Lothyran City (169) - Route A20 (170)
+169,North,26,170,South,0
+# Route A1 (32) - Route A4 (86)
+32,South,100,86,North,0
+# Route A3 (79) - Route A4 (86)
+79,East,0,86,West,0
+# Kerenca Town (87) - Route A4 (86)
+87,North,0,86,South,36
+# Esperiy Town (22) - Route A1 (32)
+22,South,22,32,North,0
+# InystanBeaches (82) - Route A1 (32)
+82,East,0,32,West,160
+# Inysta Town (43) - Route A1 (32)
+43,North,0,32,South,0
+# Route A3 (79) - Route A1 (32)
+79,North,0,32,South,40
+# Route A2 (81) - Route A1 (32)
+81,North,40,32,South,0
+# Inysta Town (43) - InystanBeaches (82)
+43,West,80,82,East,0
+# Route A2 (81) - InystanBeaches (82)
+81,South,0,82,North,30
+# InystaBeachWest (139) - InystanBeaches (82)
+139,East,8,82,West,0
+# Kerenca Town (87) - InystanBeaches (82)
+87,South,0,82,North,206
+# Route A3 (79) - Inysta Town (43)
+79,West,0,43,East,0
+# Route A2 (81) - Inysta Town (43)
+81,East,0,43,West,0
+# Route A13 (142) - InystaBeachWest (139)
+142,South,34,139,North,0
+# Route A12 (140) - InystaBeachWest (139)
+140,East,0,139,West,0
+# Kessel City (159) - InystaBeachWest (139)
+159,South,200,139,North,0
 # Route A12 (140) - Route A13 (142)
 140,North,16,142,South,0
 # Route A16 (156) - Route A13 (142)
@@ -78,34 +110,8 @@
 157,North,116,142,South,0
 # Route A17 (158) - Route A13 (142)
 158,North,166,142,South,0
-# InystanBeaches (82) - InystaBeachWest (139)
-82,West,0,139,East,8
-# Route A12 (140) - InystaBeachWest (139)
-140,East,0,139,West,0
-# Kessel City (159) - InystaBeachWest (139)
-159,South,200,139,North,0
-# Route A1 (32) - InystanBeaches (82)
-32,West,160,82,East,0
-# Inysta Town (43) - InystanBeaches (82)
-43,West,80,82,East,0
-# Route A2 (81) - InystanBeaches (82)
-81,South,0,82,North,30
-# Esperiy Town (22) - Route A1 (32)
-22,South,22,32,North,0
-# Route A4 (86) - Route A1 (32)
-86,North,0,32,South,100
-# Route A3 (79) - Route A1 (32)
-79,North,0,32,South,40
-# Inysta Town (43) - Route A1 (32)
-43,North,0,32,South,0
-# Route A2 (81) - Route A1 (32)
-81,North,40,32,South,0
-# Route A3 (79) - Route A4 (86)
-79,East,0,86,West,0
-# Inysta Town (43) - Route A3 (79)
-43,East,0,79,West,0
-# Route A2 (81) - Inysta Town (43)
-81,East,0,43,West,0
+# Route A14 (143) - Route A13 (142)
+143,South,0,142,North,0
 # Route A16 (156) - Route A12 (140)
 156,East,0,140,West,0
 # Kessel City (159) - Route A12 (140)
@@ -120,15 +126,11 @@
 159,East,50,157,West,0
 # Kessel City (159) - Route A17 (158)
 159,South,0,158,North,0
+# Route A14 (143) - Kessel City (159)
+143,South,0,159,North,166
+# Route A15 (144) - Route A14 (143)
+144,South,0,143,North,0
+# Karvalaar City (145) - Route A15 (144)
+145,South,15,144,North,0
 # DwarvenCliffs (149) - Karvalaar City (145)
 149,East,0,145,West,19
-# Route A15 (144) - Kerenca Town (87)
-144,315,107,87,0,0
-# Route A19 (168) - Bazir City (163)
-168,East,0,163,West,39
-# Lothyran City (169) - Bazir City (163)
-169,East,0,163,West,134
-# Route A20 (170) - Route A19 (168)
-170,North,0,168,South,21
-# Lothyran City (169) - Route A20 (170)
-169,North,26,170,South,0
