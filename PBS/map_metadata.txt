@@ -441,6 +441,7 @@ Name = Inystan Beaches
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BattleBack = sand
 #-------------------------------
 [083]   # InystanBeachesLugia
 Name = Inystan Beaches
@@ -448,6 +449,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Rain,100
+BattleBack = sand
 #-------------------------------
 [086]   # Route A4
 Name = Route A4
@@ -736,6 +738,46 @@ BattleBack = field
 #-------------------------------
 [169]   # Lothyran City
 Name = Lothyran City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[178]   # Route A21
+Name = Route A21
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[179]   # Jara City
+Name = Jara City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[180]   # Route A22
+Name = Route A22
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[181]   # Old Dinsmark Town
+Name = Old Dinsmark Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[185]   # Route A23
+Name = Route A23
 Outdoor = true
 ShowArea = true
 Bicycle = true

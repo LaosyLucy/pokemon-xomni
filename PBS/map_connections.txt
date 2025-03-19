@@ -40,16 +40,20 @@
 69,North,0,66,South,10
 # RouteA2northbit (84) - InystanBeachesLugia (83)
 84,South,0,83,North,30
-# Wynnoa City (89) - Route A7 (116)
-89,South,75,116,North,0
-# Route A6 (103) - Wynnoa City (89)
-103,South,0,89,North,93
-# Basalite Fields (104) - Route A6 (103)
-104,South,0,103,North,1
-# Route A7 (116) - Ice Station (117)
-116,South,0,117,North,0
-# Ice Station (117) - Route A8 (119)
-117,43,0,119,0,75
+# Wynnoa City (89) - Route A6 (103)
+89,North,93,103,South,0
+# Route A7 (116) - Wynnoa City (89)
+116,North,0,89,South,75
+# Route A6 (103) - Basalite Fields (104)
+103,North,1,104,South,0
+# Bf1padding (182) - Route A6 (103)
+182,West,0,103,East,0
+# Bf1padding (182) - Basalite Fields (104)
+182,North,0,104,South,27
+# Basalite Fields (104) - Route A8 (119)
+104,24,200,119,0,0
+# Ice Station (117) - Route A7 (116)
+117,North,0,116,South,0
 # Route A9 (124) - Skrybel Town (126)
 124,North,1,126,South,0
 # Skrybel Town (126) - Route A10 (130)
@@ -68,40 +72,50 @@
 170,North,0,168,South,21
 # Lothyran City (169) - Route A20 (170)
 169,North,26,170,South,0
-# Route A1 (32) - Route A4 (86)
-32,South,100,86,North,0
-# Route A3 (79) - Route A4 (86)
-79,East,0,86,West,0
-# Kerenca Town (87) - Route A4 (86)
-87,North,0,86,South,36
-# Esperiy Town (22) - Route A1 (32)
-22,South,22,32,North,0
-# InystanBeaches (82) - Route A1 (32)
-82,East,0,32,West,160
-# Inysta Town (43) - Route A1 (32)
-43,North,0,32,South,0
-# Route A3 (79) - Route A1 (32)
-79,North,0,32,South,40
-# Route A2 (81) - Route A1 (32)
-81,North,40,32,South,0
-# Inysta Town (43) - InystanBeaches (82)
-43,West,80,82,East,0
-# Route A2 (81) - InystanBeaches (82)
-81,South,0,82,North,30
-# InystaBeachWest (139) - InystanBeaches (82)
-139,East,8,82,West,0
-# Kerenca Town (87) - InystanBeaches (82)
-87,South,0,82,North,206
-# Route A3 (79) - Inysta Town (43)
-79,West,0,43,East,0
-# Route A2 (81) - Inysta Town (43)
-81,East,0,43,West,0
+# InystaBeachWest (139) - Kessel City (159)
+139,North,0,159,South,200
+# Route A12 (140) - Kessel City (159)
+140,North,0,159,South,150
+# Route A16 (156) - Kessel City (159)
+156,North,0,159,South,100
+# Lucero Town (157) - Kessel City (159)
+157,West,0,159,East,50
+# Route A17 (158) - Kessel City (159)
+158,North,0,159,South,0
+# Route A14 (143) - Kessel City (159)
+143,South,0,159,North,166
+# Route B5 (184) - Kessel City (159)
+184,East,0,159,West,13
+# InystanBeaches (82) - InystaBeachWest (139)
+82,West,0,139,East,8
 # Route A13 (142) - InystaBeachWest (139)
 142,South,34,139,North,0
 # Route A12 (140) - InystaBeachWest (139)
 140,East,0,139,West,0
-# Kessel City (159) - InystaBeachWest (139)
-159,South,200,139,North,0
+# Route A1 (32) - InystanBeaches (82)
+32,West,160,82,East,0
+# Inysta Town (43) - InystanBeaches (82)
+43,West,80,82,East,0
+# Route A2 (81) - InystanBeaches (82)
+81,South,0,82,North,30
+# Kerenca Town (87) - InystanBeaches (82)
+87,South,0,82,North,206
+# Esperiy Town (22) - Route A1 (32)
+22,South,22,32,North,0
+# Route A4 (86) - Route A1 (32)
+86,North,0,32,South,100
+# Route A3 (79) - Route A1 (32)
+79,North,0,32,South,40
+# Inysta Town (43) - Route A1 (32)
+43,North,0,32,South,0
+# Route A2 (81) - Route A1 (32)
+81,North,40,32,South,0
+# Route A3 (79) - Route A4 (86)
+79,East,0,86,West,0
+# Inysta Town (43) - Route A3 (79)
+43,East,0,79,West,0
+# Route A2 (81) - Inysta Town (43)
+81,East,0,43,West,0
 # Route A12 (140) - Route A13 (142)
 140,North,16,142,South,0
 # Route A16 (156) - Route A13 (142)
@@ -114,20 +128,12 @@
 143,South,0,142,North,0
 # Route A16 (156) - Route A12 (140)
 156,East,0,140,West,0
-# Kessel City (159) - Route A12 (140)
-159,South,150,140,North,0
 # Lucero Town (157) - Route A16 (156)
 157,East,0,156,West,0
-# Kessel City (159) - Route A16 (156)
-159,South,100,156,North,0
 # Route A17 (158) - Lucero Town (157)
 158,East,0,157,West,0
-# Kessel City (159) - Lucero Town (157)
-159,East,50,157,West,0
-# Kessel City (159) - Route A17 (158)
-159,South,0,158,North,0
-# Route A14 (143) - Kessel City (159)
-143,South,0,159,North,166
+# Route B5 (184) - Route A17 (158)
+184,East,37,158,West,0
 # Route A15 (144) - Route A14 (143)
 144,South,0,143,North,0
 # Karvalaar City (145) - Route A15 (144)

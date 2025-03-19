@@ -680,28 +680,13 @@ Pokemon = MEDICHAM,32
 #-------------------------------
 [COOLCOUPLE,Maara & Kuca]
 LoseText = Noooo!!
-Pokemon = QUILAVA,1
-Pokemon = QUILAVA,1
-#-------------------------------
-[COOLCOUPLE,Eysuoka & Kalo]
-LoseText = Terrible...
-Pokemon = RATICATE,1
-Pokemon = RATICATE,1
-#-------------------------------
-[COOLCOUPLE,Ashar & Kizh]
-LoseText = This was trouble for our Dark-types
-Pokemon = THIEVUL,1
-Pokemon = THIEVUL,1
-#-------------------------------
-[COOLCOUPLE,Maara & KucaS]
-LoseText = Noooo!!
 Pokemon = QUILAVA,34
 Pokemon = ABSOL,34
 Pokemon = MIGHTYENA,34
 Pokemon = PERSIAN,34
     Form = 1
 #-------------------------------
-[COOLCOUPLE,Eysuoka & KaloS]
+[COOLCOUPLE,Eysuoka & Kalo]
 LoseText = Terrible...
 Pokemon = RATICATE,34
     Form = 1
@@ -709,7 +694,7 @@ Pokemon = HONCHKROW,34
 Pokemon = PUPITAR,34
 Pokemon = GRENINJA,34
 #-------------------------------
-[COOLCOUPLE,Ashar & KizhS]
+[COOLCOUPLE,Ashar & Kizh]
 LoseText = This was trouble for our Dark-types
 Pokemon = THIEVUL,34
 Pokemon = KROOKODILE,34
