@@ -755,7 +755,7 @@ Pokemon = MEDICHAM,36
 Pokemon = PANGORO,36
 #-------------------------------
 [LEADER_Bruno,Bruno]
-Items = MEGARING
+Items = FULLRESTORE,POTION,POTION,MEGARING
 LoseText = Lucky bounce. You didn't actually win.
 Pokemon = MIENSHAO,38
 Pokemon = LUCARIO,38
@@ -766,7 +766,7 @@ Pokemon = BLAZIKEN,40
     Item = BLAZIKENITE
 #-------------------------------
 [LEADER_Beleth,Beleth]
-Items = MEGARING
+Items = FULLRESTORE,POTION,POTION,MEGARING
 LoseText = I surrender.
 Pokemon = GENGAR,43
 Pokemon = AEGISLASH,43
@@ -822,3 +822,25 @@ LoseText = You are wrong!
 Pokemon = VIBRAVA,35
 Pokemon = ALAKAZAM,36
 Pokemon = ZAPDOS,40
+#-------------------------------
+[LEADER_Ulgrim,Ulgrim]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = Terrible news.
+Pokemon = BRONZONG,47
+Pokemon = EXCADRILL,47
+Pokemon = ESCAVALIER,47
+Pokemon = METAGROSS,47
+Pokemon = AGGRON,47
+Pokemon = STEELIX,47
+	Item = STEELIXITE
+#-------------------------------
+[LEADER_Paige,Paige]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = At least a Rodentid didn't beat me.
+Pokemon = FLORGES,53
+Pokemon = TOGEKISS,53
+Pokemon = TSAREENA,53
+Pokemon = HATTERENE,53
+Pokemon = PRIMARINA,53
+Pokemon = GARDEVOIR,53
+	Item = GARDEVOIRITE
