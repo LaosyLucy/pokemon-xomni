@@ -844,3 +844,20 @@ Pokemon = HATTERENE,53
 Pokemon = PRIMARINA,53
 Pokemon = GARDEVOIR,53
 	Item = GARDEVOIRITE
+#-------------------------------
+[DWARF,Nuray]
+Pokemon = GOLEM,41
+#-------------------------------
+[DWARF,Tsaro]
+Pokemon = ONIX,39
+#-------------------------------
+[DWARF,Arho]
+Pokemon = OMASTAR,35
+Pokemon = KABUTOPS,36
+#-------------------------------
+[DWARF,Sulok]
+Pokemon = AERODACTYL,37
+Pokemon = CRADILY,38
+#-------------------------------
+[DWARF,Lioth]
+Pokemon = BASTIODON,40
