@@ -856,3 +856,9 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+#-------------------------------
+[218]  # Battle Frontier
+Name = Battle Frontier
+Outdoor = true
+MapPosition = 0,24,24
+BattleBack = water

@@ -6515,3 +6515,15 @@ BackSprite = 0,20
 FrontSprite = 0,17
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[ANTAPIR]
+BackSprite = 0,44
+FrontSprite = 0,33
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[ELEFANTIR]
+BackSprite = 0,44
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 2

@@ -23102,7 +23102,7 @@ Weight = 10.2
 Color = Green
 Shape = Quadruped
 Category = Saui
-Pokedex = Placeholder
+Pokedex = The flower and monkey are actually two seperate organisms.
 Generation = 10
 Evolutions = STIMID,Level,16
 #-------------------------------
@@ -23127,7 +23127,7 @@ Weight = 97.0
 Color = Green
 Shape = Quadruped
 Category = Saui
-Pokedex = Placeholder
+Pokedex = Stimids are known to be quite shy, but once you get to know one, they are very friendly!
 Generation = 10
 Evolutions = PROSMAUI,Level,36
 #-------------------------------
@@ -23152,7 +23152,7 @@ Weight = 310.0
 Color = Green
 Shape = Bipedal
 Category = Saui
-Pokedex = Placeholder
+Pokedex = Some say that Prosmaui are capable of learning to speak, but choose not to.
 Generation = 10
 #-------------------------------
 [PAHOEITE]
@@ -23177,7 +23177,7 @@ Weight = 10
 Color = Red
 Shape = Bipedal
 Category = Basalite
-Pokedex = Rock. Scratch. Pow. Scrrrrrr Ack Ack Ack.
+Pokedex = Even a small Pahoeite has a body temperature of over eight hundred degrees.
 Generation = 10
 Evolutions = IGNAA,Level,16
 #-------------------------------
@@ -23202,7 +23202,7 @@ Weight = 25.0
 Color = Red
 Shape = Bipedal
 Category = Basalite
-Pokedex = sCRR ccRRRsas
+Pokedex = No matter how cute they may seem, it is unadvisable to pet an Ignaa.
 Generation = 10
 Evolutions = APHANITZ,Level,36
 #-------------------------------
@@ -23227,7 +23227,7 @@ Weight = 83.0
 Color = Red
 Shape = Bipedal
 Category = Lava Quartz
-Pokedex = ScrAAAAAAAAAAAAA
+Pokedex = Aphanitz sing long, moaning songs by blowing air through large cavities in their bodies.
 Generation = 10
 #-------------------------------
 [OVINURA]
@@ -23252,7 +23252,7 @@ Weight = 7.5
 Color = Blue
 Shape = Finned
 Category = Meteortode
-Pokedex = Placeholder Dex
+Pokedex = Why Ovinura keep their eggshells is a mystery that has evaded poke-biologists for decades.
 Generation = 10
 Evolutions = ASTROPOLE,Level,16
 #-------------------------------
@@ -23277,7 +23277,7 @@ Weight = 17.5
 Color = Blue
 Shape = Finned
 Category = Meteortode
-Pokedex = Placeholder Dex
+Pokedex = The Astropole is known to spend moonless nights staring up at the stars for hours on end.
 Generation = 10
 Evolutions = COMETODE,Level,36
 #-------------------------------
@@ -23298,12 +23298,66 @@ TutorMoves = ACROBATICS,AMNESIA,AQUATAIL,ATTRACT,BLIZZARD,BRINE,CALMMIND,CAPTIVA
 EggGroups = Water1,Field
 HatchSteps = 3840
 Height = 1.8
-Weight = 44.0
+Weight = 244.0
 Color = Blue
 Shape = Finned
 Category = Meteortode
-Pokedex = Placeholder Dex
+Pokedex = A Cometode's brain accounts for over half of its total mass.
 Generation = 10
+#-------------------------------
+[ANTAPIR]
+Name = Antapir
+Types = PSYCHIC
+BaseStats = 40,30,30,100,40,60
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 51
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 50
+Abilities = SANDVEIL,COMPETITIVE
+HiddenAbilities = DRYSKIN
+Moves = 1,TACKLE,1,TAILWHIP,4,QUICKATTACK,7,FOCUSENERGY,10,BITE,13,LASERFOCUS,16,TAKEDOWN,19,ASSURANCE,22,CRUNCH,25,SUCKERPUNCH,28,SUPERFANG,31,DOUBLEEDGE,34,ENDEAVOR
+TutorMoves = ATTRACT,BLIZZARD,BODYSLAM,CAPTIVATE,CHARGEBEAM,CONFIDE,COUNTER,COVET,CUT,DEFENSECURL,DIG,DOUBLEEDGE,DOUBLETEAM,ENDEAVOR,ENDURE,FACADE,FRUSTRATION,GRASSKNOT,HEADBUTT,HIDDENPOWER,ICEBEAM,ICYWIND,IRONTAIL,LASTRESORT,MIMIC,MUDSLAP,NATURALGIFT,PLUCK,PROTECT,RAINDANCE,REST,RETALIATE,RETURN,ROCKSMASH,ROUND,SECRETPOWER,SHADOWBALL,SHOCKWAVE,SLEEPTALK,SLUDGEBOMB,SNORE,SUBSTITUTE,SUCKERPUNCH,SUNNYDAY,SUPERFANG,SWAGGER,SWIFT,TAUNT,THIEF,THUNDER,THUNDERBOLT,THUNDERWAVE,UPROAR,UTURN,WILDCHARGE,WORKUP,ZENHEADBUTT
+EggMoves = BITE,COUNTER,FINALGAMBIT,FLAMEWHEEL,FURYSWIPES,LASTRESORT,REVENGE,REVERSAL,SCREECH,UPROAR
+EggGroups = Field
+HatchSteps = 3840
+Height = 1
+Weight = 45
+Color = Brown
+Shape = Quadruped
+Habitat = Grassland
+Category = Tapir
+Pokedex = It loves mischief and playing around, so criminals love to use them as their accomplices.
+Generation = 10
+WildItemUncommon = CHILANBERRY
+Evolutions = ELEFANTIR,Level,35
+#-------------------------------
+[ELEFANTIR]
+Name = Elefantir
+Types = PSYCHIC,DARK
+BaseStats = 100,60,60,150,100,30
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 145
+EVs = SPEED,2
+CatchRate = 127
+Happiness = 50
+Abilities = SANDVEIL,COMPETITIVE
+HiddenAbilities = DRYSKIN
+Moves = 0,SCARYFACE,1,SWORDSDANCE,1,TACKLE,1,TAILWHIP,1,QUICKATTACK,1,FOCUSENERGY,4,QUICKATTACK,7,FOCUSENERGY,10,BITE,13,LASERFOCUS,16,TAKEDOWN,19,ASSURANCE,24,CRUNCH,29,SUCKERPUNCH,34,SUPERFANG,39,DOUBLEEDGE,44,ENDEAVOR
+TutorMoves = ATTRACT,BLIZZARD,BODYSLAM,CAPTIVATE,CHARGEBEAM,CONFIDE,COUNTER,COVET,CUT,DEFENSECURL,DIG,DOUBLEEDGE,DOUBLETEAM,ENDEAVOR,ENDURE,FACADE,FRUSTRATION,GIGAIMPACT,GRASSKNOT,HEADBUTT,HIDDENPOWER,HYPERBEAM,ICEBEAM,ICYWIND,IRONTAIL,LASTRESORT,MIMIC,MUDSLAP,NATURALGIFT,PLUCK,PROTECT,RAINDANCE,REST,RETALIATE,RETURN,ROAR,ROCKSMASH,ROUND,SECRETPOWER,SHADOWBALL,SHOCKWAVE,SLEEPTALK,SLUDGEBOMB,SNORE,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUCKERPUNCH,SUNNYDAY,SUPERFANG,SWAGGER,SWIFT,SWORDSDANCE,TAUNT,THIEF,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERWAVE,UPROAR,WILDCHARGE,WORKUP,ZENHEADBUTT
+EggGroups = Field
+HatchSteps = 3840
+Height = 5
+Weight = 250
+Color = Brown
+Shape = Quadruped
+Habitat = Grassland
+Category = Tapir
+Pokedex = It's large stomps when it walks mimics the sound of a thousand ants marching.
+Generation = 10
+WildItemUncommon = CHILANBERRY
 #-------------------------------
 [MANIPULETTE]
 Name = Manipulette
@@ -23326,7 +23380,7 @@ Weight = 2.0
 Color = Blue
 Shape = Finned
 Category = Marionette
-Pokedex = Placeholder Dex
+Pokedex = The actual creature hides within the menacing hands above, and it controls a marionette and has psychic powers to lure and capture prey.
 Generation = 10
 #-------------------------------
 [MIMIGEIST]

@@ -80,16 +80,6 @@
 104,24,200,119,0,0
 # Ice Station (117) - Route A7 (116)
 117,North,0,116,South,0
-# Route A9 (124) - Skrybel Town (126)
-124,North,1,126,South,0
-# Skrybel Town (126) - Route A10 (130)
-126,North,0,130,South,0
-# Route A10 (130) - Hweins City (131)
-130,North,0,131,South,11
-# Route A11 (136) - Hweins City (131)
-136,East,0,131,West,0
-# Hveden Canal (137) - Route A11 (136)
-137,East,0,136,West,9
 # InystaBeachWest (139) - Kessel City (159)
 139,North,0,159,South,200
 # Route A13 (142) - InystaBeachWest (139)
@@ -132,20 +122,8 @@
 184,East,37,158,West,0
 # Route B5 (184) - Kessel City (159)
 184,East,0,159,West,13
-# Route A21 (178) - Route A22 (180)
-178,West,25,180,East,0
-# Jara City (179) - Route A22 (180)
-179,West,0,180,East,5
-# Old Dinsmark Town (181) - Route A22 (180)
-181,South,21,180,North,0
-# Lothyran City (169) - Route A21 (178)
-169,West,28,178,East,0
-# Jara City (179) - Route A21 (178)
-179,North,0,178,South,0
 # Bazir City (163) - Lothyran City (169)
 163,West,134,169,East,0
-# Route A20 (170) - Lothyran City (169)
-170,South,0,169,North,26
 # Route A19 (168) - Bazir City (163)
 168,East,0,163,West,39
 # Malassia Town (215) - Bazir City (163)
@@ -154,8 +132,18 @@
 170,North,0,168,South,21
 # Sirandeh City (192) - Route A19 (168)
 192,East,35,168,West,0
-# Route A25 (191) - Sirandeh City (192)
-191,East,0,192,West,0
+# Lothyran City (169) - Route A21 (178)
+169,West,28,178,East,0
+# Route A20 (170) - Lothyran City (169)
+170,South,0,169,North,26
+# Route A21 (178) - Route A22 (180)
+178,West,25,180,East,0
+# Jara City (179) - Route A21 (178)
+179,North,0,178,South,0
+# Jara City (179) - Route A22 (180)
+179,West,0,180,East,5
+# Old Dinsmark Town (181) - Route A22 (180)
+181,South,21,180,North,0
 # Route A23 (185) - Old Dinsmark Town (181)
 185,East,0,181,West,5
 # Eientei City (186) - Old Dinsmark Town (181)
@@ -166,9 +154,25 @@
 187,North,0,185,South,4
 # Route A24 (189) - Eientei City (186)
 189,South,0,186,North,11
+# Victory Road (188) - New Dinsmark City (187)
+188,North,2,187,South,0
 # Atlantia Town (190) - Route A24 (189)
 190,West,28,189,East,0
 # Route A25 (191) - Atlantia Town (190)
 191,West,0,190,East,0
-# Victory Road (188) - New Dinsmark City (187)
-188,North,2,187,South,0
+# Route A25 (191) - Sirandeh City (192)
+191,East,0,192,West,0
+# Route A11 (136) - Battle Frontier (218)
+136,West,0,218,East,16
+# Hveden Canal (137) - Battle Frontier (218)
+137,North,0,218,South,0
+# Hweins City (131) - Route A11 (136)
+131,West,0,136,East,0
+# Hveden Canal (137) - Route A11 (136)
+137,East,0,136,West,9
+# Route A10 (130) - Hweins City (131)
+130,North,0,131,South,11
+# Skrybel Town (126) - Route A10 (130)
+126,North,0,130,South,0
+# Route A9 (124) - Skrybel Town (126)
+124,North,1,126,South,0

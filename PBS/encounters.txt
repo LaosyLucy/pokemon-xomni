@@ -212,6 +212,7 @@ HeadbuttHigh
 #-------------------------------
 [032] # Route A1
 Land,10
+	50,ANTAPIR,1,4
     20,RATTATA,1,4
     18,PIDGEY,1,4
     10,HOOTHOOT,1,4
@@ -224,6 +225,7 @@ Land,10
     2,PIDGEY,5,8
     2,PINECO,1,4
 LandNight,21
+	40,ANTAPIR,1,4
     25,RATTATA,1,4
     18,HOOTHOOT,1,4
     11,NIDORANfE,1,4
