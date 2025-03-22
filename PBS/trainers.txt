@@ -249,23 +249,21 @@ Pokemon = ROCKRUFF,10
 #-------------------------------
 [RIVALEM,Emyly,2]
 LoseText = Well okay then...
-Pokemon = EEVEE,20
-Pokemon = EMOLGA,20
-Pokemon = BOLDORE,20
-Pokemon = LYCANROC,20
-Pokemon = PIDGEOTTO,20
+Pokemon = EEVEE,34
+Pokemon = EMOLGA,34
+Pokemon = BOLDORE,34
+Pokemon = ANTAPIR,34
+Pokemon = LYCANROC,34
+Pokemon = PIDGEOTTO,34
 #-------------------------------
 [RIVALEM,Emyly,3]
-LoseText = Okay smart guy.
-Pokemon = EEVEE,10
-Pokemon = EMOLGA,10
-Pokemon = ROCKRUFF,10
-#-------------------------------
-[RIVALEM,Emyly,4]
-LoseText = Okay smart guy.
-Pokemon = EEVEE,10
-Pokemon = EMOLGA,10
-Pokemon = ROCKRUFF,10
+LoseText = Well okay then.
+Pokemon = LYCANROC,42
+Pokemon = ELEFANTIR,42
+Pokemon = PIKACHU,42
+Pokemon = GIGALITH,42
+Pokemon = SMEARGLE,42
+Pokemon = UMBREON,44
 #-------------------------------
 [RIVALARNE,Albert,1]
 LoseText = For a recluse, that was pretty good hehe
@@ -877,9 +875,70 @@ Pokemon = GALLADE,47
 	Item = GALLADITE
 #-------------------------------
 [BEAUTY,Lilith,4]
+Items = MEGARING
 Pokemon = WEEZING,47
 	Form = 1
 Pokemon = GRANBULL,47
 Pokemon = CLEFABLE,47
 Pokemon = GALLADE,47
 	Item = GALLADITE
+#-------------------------------
+[ELITEFOUR_Talia,Talia]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = VAPOREON,60
+Pokemon = PRIMARINA,60
+Pokemon = RIBOMBEE,60
+Pokemon = MIMIKYU,60
+Pokemon = GOTHITELLE,60
+Pokemon = MAWILE,60
+	Item = MAWILITE
+#-------------------------------
+[ELITEFOUR_SJ,SJ]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = COPPERAJAH,60
+Pokemon = DRAGONITE,60
+Pokemon = FORRETRESS,60
+Pokemon = SLOWKING,60
+Pokemon = MAGMORTAR,60
+Pokemon = SCIZOR,60
+	Item = SCIZORITE
+#-------------------------------
+[ELITEFOUR_Jack,Jack]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = GLISCOR,60
+Pokemon = PORYGONZ,60
+Pokemon = AVALUGG,60
+Pokemon = NOIVERN,60
+Pokemon = KOMMOO,60
+Pokemon = SALAMENCE,60
+	Item = SALAMENCITE
+#-------------------------------
+[ELITEFOUR_Valerie,Valerie]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = GLACEON,60
+Pokemon = DRAGAPULT,60
+Pokemon = VOLCARONA,60
+Pokemon = ZOROARK,60
+Pokemon = RHYPERIOR,60
+Pokemon = METAGROSS,60
+	Item = METAGROSSITE
+#-------------------------------
+[CHAMPION_Augustus,Augustus]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = GARCHOMP,55
+Pokemon = ALTARIA,55
+Pokemon = BLAZIKEN,55
+Pokemon = EMBOAR,55
+Pokemon = PANGORO,55
+Pokemon = TYRANITAR,55
+	Item = TYRANITARITE
+#-------------------------------
+[CHAMPION_Emyly,Emyly]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+Pokemon = DRIFBLIM,60
+Pokemon = RAICHU,60
+Pokemon = ELEFANTIR,60
+Pokemon = SMEARGLE,60
+Pokemon = LOPUNNY,60
+	Item = LOPUNNITE
+Pokemon = UMBREON,60
