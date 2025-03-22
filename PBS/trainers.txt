@@ -861,3 +861,25 @@ Pokemon = CRADILY,38
 #-------------------------------
 [DWARF,Lioth]
 Pokemon = BASTIODON,40
+#-------------------------------
+[BEAUTY,Lilith,1]
+Pokemon = GALLADE,47
+#-------------------------------
+[BEAUTY,Lilith,2]
+Pokemon = CLEFABLE,47
+Pokemon = GALLADE,47
+#-------------------------------
+[BEAUTY,Lilith,3]
+Items = MEGARING
+Pokemon = GRANBULL,47
+Pokemon = CLEFABLE,47
+Pokemon = GALLADE,47
+	Item = GALLADITE
+#-------------------------------
+[BEAUTY,Lilith,4]
+Pokemon = WEEZING,47
+	Form = 1
+Pokemon = GRANBULL,47
+Pokemon = CLEFABLE,47
+Pokemon = GALLADE,47
+	Item = GALLADITE

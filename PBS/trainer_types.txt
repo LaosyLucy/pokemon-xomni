@@ -568,10 +568,8 @@ BaseMoney = 100
 Name = Leader
 Gender = Male
 BaseMoney = 100
-SkillLevel = 60
 #-------------------------------
 [LEADER_Paige]
 Name = Leader
 Gender = Female
 BaseMoney = 100
-SkillLevel = 60

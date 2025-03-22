@@ -783,3 +783,76 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+#-------------------------------
+[213]   # Jara Gym Caverns
+Name = Jara Gym Caverns
+Outdoor = false
+ShowArea = false
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = cave1
+DarkMap = true
+#-------------------------------
+[189]   # Route A24
+Name = Route A24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[191]   # Route A25
+Name = Route A25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[188]   # Victory Road
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[186]   # Eientei City
+Name = Eientei City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[187]   # New Dinsmark City
+Name = New Dinsmark City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[190]   # Atlantia Town
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[192]   # Sirandeh City
+Name = Sirandeh City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+#-------------------------------
+[215]   # Malassia Town
+Name = Malassia Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
