@@ -6527,3 +6527,15 @@ BackSprite = 0,44
 FrontSprite = 0,32
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[AEROGOYLE]
+BackSprite = 0,14
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[GARGOELOR]
+BackSprite = 0,44
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 2
