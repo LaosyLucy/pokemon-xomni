@@ -585,6 +585,7 @@ Water,18
 	#-------------------------------
 [088] # Route A5
 Land,10
+	5,COMDAWG,9,12
 	5,SWIRLIX,9,12
 	5,SPRITZEE,9,12
 	5,FLABEBE,9,12
@@ -640,6 +641,7 @@ Water,18
 #-------------------------------
 [103] # Route A6
 Land,10
+	20,COMDAWG,15,18
 	19,DELIBIRD,15,18
 	18,SANDSHREW_1,15,18
 	18,SWINUB,15,18

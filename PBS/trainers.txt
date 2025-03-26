@@ -973,7 +973,7 @@ Pokemon = ALAKAZAM,50
 Pokemon = ZAPDOS,50
 #-------------------------------
 [LAIRITEADMIN,Blits,1]
-Pokemon = KROKOROK,50
+Pokemon = KROOKODILE,50
 Pokemon = HAXORUS,50
 Pokemon = MOLTRES,50
 #-------------------------------
@@ -982,7 +982,17 @@ Items = MEGARING
 Pokemon = BASTIODON,50
 Pokemon = MISMAGIUS,50
 Pokemon = DITTO,50
-Pokemon = SALAMENCE,50
+Pokemon = CARBINK,50
 Pokemon = DARKRAI,50
 Pokemon = MEWTWO,50
 	Item = MEWTWONITEY
+#-------------------------------
+[ACETRAINERM,Antoniokf5]
+LoseText = Well played.
+Pokemon = PELIPPER,50
+Pokemon = GARDEVOIR,50
+Pokemon = LINOONE,50
+Pokemon = RAICHU,50
+	Form = 1
+Pokemon = HOUNDOOM,50
+Pokemon = BLAZIKEN,50
