@@ -212,7 +212,9 @@ HeadbuttHigh
 #-------------------------------
 [032] # Route A1
 Land,10
-	50,ANTAPIR,1,4
+	40,ANTAPIR,1,4
+	40,GARGOELOR,1,4
+	20,THOMBETTE,1,4
     20,RATTATA,1,4
     18,PIDGEY,1,4
     10,HOOTHOOT,1,4
@@ -226,6 +228,8 @@ Land,10
     2,PINECO,1,4
 LandNight,21
 	40,ANTAPIR,1,4
+	40,GARGOELOR,1,4
+	20,THOMBETTE,1,4
     25,RATTATA,1,4
     18,HOOTHOOT,1,4
     11,NIDORANfE,1,4
@@ -405,6 +409,9 @@ Land,21
 #-------------------------------
 [079] # Route A3
 Land,10
+	40,ANTAPIR,1,4
+	40,GARGOELOR,1,4
+	20,THOMBETTE,1,4
     20,RATTATA,3,7
     28,PIDGEY,3,7
     10,HOOTHOOT,3,7
@@ -417,6 +424,9 @@ Land,10
     6,PIDGEY,5,8
     2,PINECO,4,8
 LandNight,21
+	40,ANTAPIR,1,4
+	40,GARGOELOR,1,4
+	20,THOMBETTE,1,4
     25,RATTATA,5,9
     18,HOOTHOOT,5,9
     11,NIDORANfE,5,9
@@ -443,6 +453,9 @@ Water,18
 	#-------------------------------
 [081] # Route A2
 Land,10
+	40,ANTAPIR,1,4
+	40,GARGOELOR,1,4
+	20,THOMBETTE,1,4
 	10,ODDISH,5,8
 	10,MAREEP,5,8
 	10,HOPPIP,5,8
@@ -472,6 +485,9 @@ Land,10
 	15,SLOWPOKE,5,8
 	15,KRABBY,5,8
 LandNight,21
+	40,ANTAPIR,1,4
+	40,GARGOELOR,1,4
+	20,THOMBETTE,1,4
 	10,MUNNA,7,10
 	9,ROGGENROLA,7,10
 	1,BOLDORE,11,13

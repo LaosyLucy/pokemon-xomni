@@ -2311,3 +2311,15 @@ Color = Black
 Shape = Quadruped
 Category = High King
 Pokedex = Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
+#-------------------------------
+[COMDAWG,7]
+FormName = White Form
+Types = FAIRY,GHOST
+BaseStats = 65,120,55,50,50,160
+BaseExp = 145
+EVs = SPEED,2
+Height = 5
+Weight = 250
+Color = Blue
+Pokedex = They can't be exposed for long without their skin, and it begins to regrow after 7 hours.
+Generation = 10
