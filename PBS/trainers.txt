@@ -942,3 +942,47 @@ Pokemon = SMEARGLE,60
 Pokemon = LOPUNNY,60
 	Item = LOPUNNITE
 Pokemon = UMBREON,60
+#-------------------------------
+[LAIRITEADMIN,Caine,1]
+Pokemon = SCRAFTY,50
+Pokemon = TYRANITAR,50
+Pokemon = VICTREEBEL,50
+#-------------------------------
+[LAIRITEADMIN,Conker,1]
+Pokemon = SCIZOR,50
+Pokemon = VIKAVOLT,50
+Pokemon = WEEZING,50
+#-------------------------------
+[LAIRITEADMIN,Ivor]
+Pokemon = CRUSTLE,50
+Pokemon = PARASECT,50
+Pokemon = JOLTEON,50
+#-------------------------------
+[LAIRITEADMIN,Bonnie,1]
+Items = MEGARING
+Pokemon = TENTACRUEL,50
+Pokemon = SHARPEDO,50
+	Item = SHARPEDONITE
+Pokemon = ARTICUNO,50
+#-------------------------------
+[LAIRITEADMIN,Ridley,1]
+Items = MEGARING
+Pokemon = FLYGON,50
+Pokemon = ALAKAZAM,50
+	Item = ALAKAZITE
+Pokemon = ZAPDOS,50
+#-------------------------------
+[LAIRITEADMIN,Blits,1]
+Pokemon = KROKOROK,50
+Pokemon = HAXORUS,50
+Pokemon = MOLTRES,50
+#-------------------------------
+[LAIRITEHEAD,Savoy]
+Items = MEGARING
+Pokemon = BASTIODON,50
+Pokemon = MISMAGIUS,50
+Pokemon = DITTO,50
+Pokemon = SALAMENCE,50
+Pokemon = DARKRAI,50
+Pokemon = MEWTWO,50
+	Item = MEWTWONITEY

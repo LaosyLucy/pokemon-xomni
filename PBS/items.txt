@@ -6595,3 +6595,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A note from the mysterious Weatherman in another language.
+#-------------------------------
+[TRADELINK]
+Name = Trade Link
+NamePlural = Trade Links
+Pocket = 8
+Price = 1000
+Flags = KeyItem
+Description = An item used to simulate trading.
