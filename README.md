@@ -213,3 +213,18 @@ Mr. Gela/theo#7722
 <b>Those Chests from Colosseum 1.1.0</b>
 https://eeveeexpo.com/resources/1439/
 Nezzy
+
+
+<b>CobbleMon for their Link Cable sprite</b>
+
+
+<b>Xomni Team</b>
+
+- Lucy
+- Anto
+- Lord Adornable
+- Dain
+- zombielizard
+- Jamm
+- Esje
+
