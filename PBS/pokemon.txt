@@ -1373,7 +1373,7 @@ Category = Scratch Cat
 Pokedex = Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.
 Generation = 1
 WildItemUncommon = QUICKCLAW
-Evolutions = PERSIAN,Level,28,PERRSERKER,None,
+Evolutions = PERSIAN,Level,28,PERRSERKER,Item,DUSKSTONE
 #-------------------------------
 [PERSIAN]
 Name = Persian
@@ -2198,7 +2198,7 @@ Category = Wild Duck
 Pokedex = It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.
 Generation = 1
 WildItemUncommon = LEEK
-Evolutions = SIRFETCHD,None,
+Evolutions = SIRFETCHD,Item,DUSKSTONE
 #-------------------------------
 [DODUO]
 Name = Doduo
@@ -3235,7 +3235,7 @@ Habitat = Urban
 Category = Barrier
 Pokedex = A Mr. Mime is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.
 Generation = 1
-Evolutions = MRRIME,None,
+Evolutions = MRRIME,Item,DUSKSTONE
 #-------------------------------
 [SCYTHER]
 Name = Scyther
@@ -5859,7 +5859,7 @@ Category = Coral
 Pokedex = Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.
 Generation = 2
 WildItemUncommon = LUMINOUSMOSS
-Evolutions = CURSOLA,None,
+Evolutions = CURSOLA,Item,DAWNSTONE
 #-------------------------------
 [REMORAID]
 Name = Remoraid
@@ -14648,7 +14648,7 @@ Category = Spirit
 Pokedex = These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.
 Generation = 5
 WildItemUncommon = SPELLTAG
-Evolutions = COFAGRIGUS,Level,34,RUNERIGUS,None,
+Evolutions = COFAGRIGUS,Level,34,RUNERIGUS,Item,DUSKSTONE
 #-------------------------------
 [COFAGRIGUS]
 Name = Cofagrigus

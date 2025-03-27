@@ -417,13 +417,22 @@ Pokemon = ARCANINE,22
 Pokemon = MAGMAR,23
 Pokemon = RAICHU,23
 #-------------------------------
+[LAIRITEGRUNT,Doors]
+LoseText = My harem of Lopunnies.
+Pokemon = LOPUNNY,23
+Pokemon = GARDEVOIR,23
+Pokemon = VAPOREON,23
+Pokemon = LOPUNNY,23
+Pokemon = LOPUNNY,23
+Pokemon = TSAREENA,23
+#-------------------------------
 [LAIRITEGRUNT,Marlow]
 LoseText = Welp...
 Pokemon = MAGCARGO,23
 Pokemon = HELIOPTILE,22
 Pokemon = WOOPER,23
 #-------------------------------
-[LAIRITEGRUNT,Andrew]
+[LAIRITEGRUNT,Shiftgear]
 LoseText = Ouchie
 Pokemon = ARBOK,22
 Pokemon = ABSOL,23
@@ -475,6 +484,10 @@ Pokemon = MAGNETON,24
 Pokemon = TOGEDEMARU,25
 Pokemon = PLUSLE,19
 Pokemon = MINUN,19
+#-------------------------------
+[LAIRITEGRUNT,Jeremy]
+LoseText = My lover, David
+Pokemon = CRYOGONAL,25
 #-------------------------------
 [SCOUTGIRL,Ellie]
 LoseText = Bahhh, my trip is ruined!
@@ -999,3 +1012,49 @@ Pokemon = BLAZIKEN,50
 #-------------------------------
 [ALPHA,Alpha]
 Pokemon = MANIPULETTE,60
+#-------------------------------
+[ACETRAINERF,Charlotte]
+LoseText = Well played.
+Pokemon = SLOWKING,50
+Pokemon = NIDOKING,50
+Pokemon = OBSTAGOON,50
+Pokemon = EXEGGUTOR,50
+	Form = 1
+Pokemon = GOLEM,50
+Pokemon = DUGTRIO,50
+#-------------------------------
+[ACETRAINERF,Rebecca]
+LoseText = Well played.
+Pokemon = MAMOSWINE,50
+Pokemon = INFERNAPE,50
+Pokemon = COMETODE,50
+Pokemon = POLITOED,50
+Pokemon = DHELMISE,50
+Pokemon = ROTOM,50
+#-------------------------------
+[ACETRAINERF,Marie]
+LoseText = Well played.
+Pokemon = CRUSTLE,50
+Pokemon = COFAGRIGUS,50
+Pokemon = FLYGON,50
+Pokemon = CRAWDAUNT,50
+Pokemon = GENGAR,50
+Pokemon = ARMALDO,50
+#-------------------------------
+[ACETRAINERM,Silver]
+LoseText = Well played.
+Pokemon = PROSMAUI,50
+Pokemon = CLAYDOL,50
+Pokemon = GRUMPIG,50
+Pokemon = LICKILICKY,50
+Pokemon = AEGISLASH,50
+Pokemon = AGGRON,50
+#-------------------------------
+[ACETRAINERM,Gold]
+LoseText = Well played.
+Pokemon = APHANITZ,50
+Pokemon = SCEPTILE,50
+Pokemon = MILTANK,50
+Pokemon = TYRANITAR,50
+Pokemon = MAGMORTAR,50
+Pokemon = ELECTIVIRE,50
