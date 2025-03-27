@@ -996,3 +996,6 @@ Pokemon = RAICHU,50
 	Form = 1
 Pokemon = HOUNDOOM,50
 Pokemon = BLAZIKEN,50
+#-------------------------------
+[ALPHA,Alpha]
+Pokemon = MANIPULETTE,60
