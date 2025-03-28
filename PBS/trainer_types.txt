@@ -625,3 +625,23 @@ BaseMoney = 150
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 SkillLevel = 100
+#-------------------------------
+[TUBERM]
+Name = Tuber
+Gender = Male
+BaseMoney = 10
+#-------------------------------
+[TUBERF]
+Name = Tuber
+Gender = Femle
+BaseMoney = 10
+#-------------------------------
+[SWIMMERM]
+Name = Swimmer
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[SWIMMERF]
+Name = Swimmer
+Gender = Female
+BaseMoney = 20

@@ -299,10 +299,38 @@ Pokemon = LAMPENT,34
 Pokemon = SNORLAX,34
 #-------------------------------
 [RIVALARNE,Albert,7]
-LoseText = Okay smart guy.
-Pokemon = EEVEE,10
-Pokemon = EMOLGA,10
-Pokemon = ROCKRUFF,10
+Items = MEGARING,FULLRESTORE
+LoseText = Maybe if I actually FINISHED training...
+Pokemon = APHANITZ,42
+Pokemon = WAILORD,42
+Pokemon = SNORLAX,42
+Pokemon = NINETALES,42
+	Form = 1
+Pokemon = AEGISLASH,42
+Pokemon = GARDEVOIR,42
+	Item = GARDEVOIRITE
+#-------------------------------
+[RIVALARNE,Albert,8]
+Items = MEGARING,FULLRESTORE
+LoseText = Maybe if I actually FINISHED training...
+Pokemon = COMETODE,42
+Pokemon = CAMERUPT,42
+Pokemon = SNORLAX,42
+Pokemon = DECIDUEYE,42
+Pokemon = AEGISLASH,42
+Pokemon = GARDEVOIR,42
+	Item = GARDEVOIRITE
+#-------------------------------
+[RIVALARNE,Albert,9]
+Items = MEGARING,FULLRESTORE
+LoseText = Maybe if I actually FINISHED training...
+Pokemon = PROSMAUI,42
+Pokemon = ZOROARK,42
+Pokemon = SNORLAX,42
+Pokemon = FLAREON,42
+Pokemon = AEGISLASH,42
+Pokemon = GARDEVOIR,42
+	Item = GARDEVOIRITE
 #-------------------------------
 [FAIRYGIRL,Melissa]
 LoseText = Life is too short to care!
@@ -1058,3 +1086,50 @@ Pokemon = MILTANK,50
 Pokemon = TYRANITAR,50
 Pokemon = MAGMORTAR,50
 Pokemon = ELECTIVIRE,50
+#-------------------------------
+[TUBERF,Madeline]
+Pokemon = SPHEAL,20
+Pokemon = MAGIKARP,26
+Pokemon = SEALEO,26
+#-------------------------------
+[TUBERF,Amy]
+Pokemon = WALREIN,31
+#-------------------------------
+[TUBERF,Winnie]
+Pokemon = TAUROS,20
+#-------------------------------
+[TUBERF,Clara]
+Pokemon = STARAVIA,24
+#-------------------------------
+[TUBERF,Rose]
+Pokemon = SWELLOW,27
+Pokemon = PELIPPER,30
+#-------------------------------
+[TUBERF,Yasmin]
+Pokemon = CRYOGONAL,30
+#-------------------------------
+[TUBERF,Martha]
+Pokemon = AVALUGG,30
+#-------------------------------
+[TUBERM,Rory]
+Pokemon = JYNX,30
+#-------------------------------
+[TUBERM,Mickey]
+Pokemon = GASTLY,20
+Pokemon = HAUNTER,22
+#-------------------------------
+[TUBERM,Chris]
+Pokemon = DHELMISE,30
+#-------------------------------
+[TUBERM,George]
+Pokemon = VAPOREON,33
+#-------------------------------
+[SWIMMERF,Sophie]
+Pokemon = ROTOM,31
+#-------------------------------
+[SWIMMERF,Grace]
+Pokemon = CONKELDURR,33
+#-------------------------------
+[SWIMMERM,Michael]
+Pokemon = ESPEON,32
+Pokemon = SHELLOS,20
