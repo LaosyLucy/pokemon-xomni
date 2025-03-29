@@ -633,7 +633,7 @@ BaseMoney = 10
 #-------------------------------
 [TUBERF]
 Name = Tuber
-Gender = Femle
+Gender = Female
 BaseMoney = 10
 #-------------------------------
 [SWIMMERM]
