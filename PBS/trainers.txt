@@ -1144,3 +1144,12 @@ LoseText = Ah! Good fight!
 Pokemon = SYLVEON,20
 Pokemon = EEVEE,15
 Pokemon = EEVEE,12
+#-------------------------------
+[CAMPER,William]
+LoseText = No my mankey!
+Pokemon = MANKEY,27
+#-------------------------------
+[CAMPER,Reggie]
+LoseText = I really need to train more!
+Pokemon = SILCOON,27
+Pokemon = MACHOP,10
