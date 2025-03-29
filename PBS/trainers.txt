@@ -985,7 +985,7 @@ Pokemon = LOPUNNY,60
 Pokemon = UMBREON,60
 #-------------------------------
 [LAIRITEADMIN,Caine,1]
-Pokemon = SCRAFTY,50
+Pokemon = TYPHLOSION,50
 Pokemon = TYRANITAR,50
 Pokemon = VICTREEBEL,50
 #-------------------------------

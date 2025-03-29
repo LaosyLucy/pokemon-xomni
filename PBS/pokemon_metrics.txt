@@ -6541,7 +6541,7 @@ ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [COMDAWG]
-BackSprite = 0,39
+BackSprite = 0,47
 FrontSprite = 0,32
 ShadowX = 0
 ShadowSize = 2
@@ -6549,11 +6549,5 @@ ShadowSize = 2
 [COMDAWG,1]
 BackSprite = 0,27
 FrontSprite = 0,36
-ShadowX = 0
-ShadowSize = 2
-#-------------------------------
-[COMDAWG,7]
-BackSprite = 0,40
-FrontSprite = 0,32
 ShadowX = 0
 ShadowSize = 2
