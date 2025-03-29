@@ -1133,3 +1133,14 @@ Pokemon = CONKELDURR,33
 [SWIMMERM,Michael]
 Pokemon = ESPEON,32
 Pokemon = SHELLOS,20
+#-------------------------------
+[TOWNTHUG,Johnny]
+LoseText = Grr... I'll get you next time dumbass!
+Pokemon = SCRAGGY,20
+Pokemon = POOCHYENA,13
+#-------------------------------
+[STUDENTF,Anita]
+LoseText = Ah! Good fight!
+Pokemon = SYLVEON,20
+Pokemon = EEVEE,15
+Pokemon = EEVEE,12
