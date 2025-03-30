@@ -6551,3 +6551,21 @@ BackSprite = 0,27
 FrontSprite = 0,36
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[ANTCANO]
+BackSprite = 0,18
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[FORMICOAL]
+BackSprite = 0,37
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[FURNACANT]
+BackSprite = 0,25
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2

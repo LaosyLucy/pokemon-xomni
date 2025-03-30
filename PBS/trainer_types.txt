@@ -606,25 +606,25 @@ VictoryBGM = Battle victory leader
 Name = Champion
 Gender = Male
 BaseMoney = 100
+SkillLevel = 90
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
-SkillLevel = 90
 #-------------------------------
 [CHAMPION_Emyly]
 Name = Champion
 Gender = Female
 BaseMoney = 100
+SkillLevel = 90
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
-SkillLevel = 90
 #-------------------------------
 [ALPHA]
 Name = Tyrant
 Gender = Male
 BaseMoney = 150
+SkillLevel = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
-SkillLevel = 100
 #-------------------------------
 [TUBERM]
 Name = Tuber

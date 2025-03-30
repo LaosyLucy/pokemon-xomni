@@ -305,10 +305,10 @@ Pokemon = APHANITZ,42
 Pokemon = WAILORD,42
 Pokemon = SNORLAX,42
 Pokemon = NINETALES,42
-	Form = 1
+    Form = 1
 Pokemon = AEGISLASH,42
 Pokemon = GARDEVOIR,42
-	Item = GARDEVOIRITE
+    Item = GARDEVOIRITE
 #-------------------------------
 [RIVALARNE,Albert,8]
 Items = MEGARING,FULLRESTORE
@@ -319,7 +319,7 @@ Pokemon = SNORLAX,42
 Pokemon = DECIDUEYE,42
 Pokemon = AEGISLASH,42
 Pokemon = GARDEVOIR,42
-	Item = GARDEVOIRITE
+    Item = GARDEVOIRITE
 #-------------------------------
 [RIVALARNE,Albert,9]
 Items = MEGARING,FULLRESTORE
@@ -330,7 +330,7 @@ Pokemon = SNORLAX,42
 Pokemon = FLAREON,42
 Pokemon = AEGISLASH,42
 Pokemon = GARDEVOIR,42
-	Item = GARDEVOIRITE
+    Item = GARDEVOIRITE
 #-------------------------------
 [FAIRYGIRL,Melissa]
 LoseText = Life is too short to care!
@@ -871,7 +871,7 @@ Pokemon = ESCAVALIER,47
 Pokemon = METAGROSS,47
 Pokemon = AGGRON,47
 Pokemon = STEELIX,47
-	Item = STEELIXITE
+    Item = STEELIXITE
 #-------------------------------
 [LEADER_Paige,Paige]
 Items = FULLRESTORE,POTION,POTION,MEGARING
@@ -882,151 +882,173 @@ Pokemon = TSAREENA,53
 Pokemon = HATTERENE,53
 Pokemon = PRIMARINA,53
 Pokemon = GARDEVOIR,53
-	Item = GARDEVOIRITE
+    Item = GARDEVOIRITE
 #-------------------------------
 [DWARF,Nuray]
+LoseText = ...
 Pokemon = GOLEM,41
 #-------------------------------
 [DWARF,Tsaro]
+LoseText = ...
 Pokemon = ONIX,39
 #-------------------------------
 [DWARF,Arho]
+LoseText = ...
 Pokemon = OMASTAR,35
 Pokemon = KABUTOPS,36
 #-------------------------------
 [DWARF,Sulok]
+LoseText = ...
 Pokemon = AERODACTYL,37
 Pokemon = CRADILY,38
 #-------------------------------
 [DWARF,Lioth]
+LoseText = ...
 Pokemon = BASTIODON,40
 #-------------------------------
 [BEAUTY,Lilith,1]
+LoseText = ...
 Pokemon = GALLADE,47
 #-------------------------------
 [BEAUTY,Lilith,2]
+LoseText = ...
 Pokemon = CLEFABLE,47
 Pokemon = GALLADE,47
 #-------------------------------
 [BEAUTY,Lilith,3]
 Items = MEGARING
+LoseText = ...
 Pokemon = GRANBULL,47
 Pokemon = CLEFABLE,47
 Pokemon = GALLADE,47
-	Item = GALLADITE
+    Item = GALLADITE
 #-------------------------------
 [BEAUTY,Lilith,4]
 Items = MEGARING
+LoseText = ...
 Pokemon = WEEZING,47
-	Form = 1
+    Form = 1
 Pokemon = GRANBULL,47
 Pokemon = CLEFABLE,47
 Pokemon = GALLADE,47
-	Item = GALLADITE
+    Item = GALLADITE
 #-------------------------------
 [ELITEFOUR_Talia,Talia]
 Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = ...
 Pokemon = VAPOREON,60
 Pokemon = PRIMARINA,60
 Pokemon = RIBOMBEE,60
 Pokemon = MIMIKYU,60
 Pokemon = GOTHITELLE,60
 Pokemon = MAWILE,60
-	Item = MAWILITE
+    Item = MAWILITE
 #-------------------------------
 [ELITEFOUR_SJ,SJ]
 Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = ...
 Pokemon = COPPERAJAH,60
 Pokemon = DRAGONITE,60
 Pokemon = FORRETRESS,60
 Pokemon = SLOWKING,60
 Pokemon = MAGMORTAR,60
 Pokemon = SCIZOR,60
-	Item = SCIZORITE
+    Item = SCIZORITE
 #-------------------------------
 [ELITEFOUR_Jack,Jack]
 Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = ...
 Pokemon = GLISCOR,60
 Pokemon = PORYGONZ,60
 Pokemon = AVALUGG,60
 Pokemon = NOIVERN,60
 Pokemon = KOMMOO,60
 Pokemon = SALAMENCE,60
-	Item = SALAMENCITE
+    Item = SALAMENCITE
 #-------------------------------
 [ELITEFOUR_Valerie,Valerie]
 Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = ...
 Pokemon = GLACEON,60
 Pokemon = DRAGAPULT,60
 Pokemon = VOLCARONA,60
 Pokemon = ZOROARK,60
 Pokemon = RHYPERIOR,60
 Pokemon = METAGROSS,60
-	Item = METAGROSSITE
+    Item = METAGROSSITE
 #-------------------------------
 [CHAMPION_Augustus,Augustus]
 Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = ...
 Pokemon = GARCHOMP,55
 Pokemon = ALTARIA,55
 Pokemon = BLAZIKEN,55
 Pokemon = EMBOAR,55
 Pokemon = PANGORO,55
 Pokemon = TYRANITAR,55
-	Item = TYRANITARITE
+    Item = TYRANITARITE
 #-------------------------------
 [CHAMPION_Emyly,Emyly]
 Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = ...
 Pokemon = DRIFBLIM,60
 Pokemon = RAICHU,60
 Pokemon = ELEFANTIR,60
 Pokemon = SMEARGLE,60
 Pokemon = LOPUNNY,60
-	Item = LOPUNNITE
+    Item = LOPUNNITE
 Pokemon = UMBREON,60
 #-------------------------------
 [LAIRITEADMIN,Caine,1]
+LoseText = ...
 Pokemon = TYPHLOSION,50
 Pokemon = TYRANITAR,50
 Pokemon = VICTREEBEL,50
 #-------------------------------
 [LAIRITEADMIN,Conker,1]
+LoseText = ...
 Pokemon = SCIZOR,50
 Pokemon = VIKAVOLT,50
 Pokemon = WEEZING,50
 #-------------------------------
 [LAIRITEADMIN,Ivor]
+LoseText = ...
 Pokemon = CRUSTLE,50
 Pokemon = PARASECT,50
 Pokemon = JOLTEON,50
 #-------------------------------
 [LAIRITEADMIN,Bonnie,1]
 Items = MEGARING
+LoseText = ...
 Pokemon = TENTACRUEL,50
 Pokemon = SHARPEDO,50
-	Item = SHARPEDONITE
+    Item = SHARPEDONITE
 Pokemon = ARTICUNO,50
 #-------------------------------
 [LAIRITEADMIN,Ridley,1]
 Items = MEGARING
+LoseText = ...
 Pokemon = FLYGON,50
 Pokemon = ALAKAZAM,50
-	Item = ALAKAZITE
+    Item = ALAKAZITE
 Pokemon = ZAPDOS,50
 #-------------------------------
 [LAIRITEADMIN,Blits,1]
+LoseText = ...
 Pokemon = KROOKODILE,50
 Pokemon = HAXORUS,50
 Pokemon = MOLTRES,50
 #-------------------------------
 [LAIRITEHEAD,Savoy]
 Items = MEGARING
+LoseText = ...
 Pokemon = BASTIODON,50
 Pokemon = MISMAGIUS,50
 Pokemon = DITTO,50
 Pokemon = CARBINK,50
 Pokemon = DARKRAI,50
 Pokemon = MEWTWO,50
-	Item = MEWTWONITEY
+    Item = MEWTWONITEY
 #-------------------------------
 [ACETRAINERM,Antoniokf5]
 LoseText = Well played.
@@ -1034,11 +1056,12 @@ Pokemon = PELIPPER,50
 Pokemon = GARDEVOIR,50
 Pokemon = LINOONE,50
 Pokemon = RAICHU,50
-	Form = 1
+    Form = 1
 Pokemon = HOUNDOOM,50
 Pokemon = BLAZIKEN,50
 #-------------------------------
 [ALPHA,Alpha]
+LoseText = ...
 Pokemon = MANIPULETTE,60
 #-------------------------------
 [ACETRAINERF,Charlotte]
@@ -1047,7 +1070,7 @@ Pokemon = SLOWKING,50
 Pokemon = NIDOKING,50
 Pokemon = OBSTAGOON,50
 Pokemon = EXEGGUTOR,50
-	Form = 1
+    Form = 1
 Pokemon = GOLEM,50
 Pokemon = DUGTRIO,50
 #-------------------------------
@@ -1088,49 +1111,63 @@ Pokemon = MAGMORTAR,50
 Pokemon = ELECTIVIRE,50
 #-------------------------------
 [TUBERF,Madeline]
+LoseText = ...
 Pokemon = SPHEAL,20
 Pokemon = MAGIKARP,26
 Pokemon = SEALEO,26
 #-------------------------------
 [TUBERF,Amy]
+LoseText = ...
 Pokemon = WALREIN,31
 #-------------------------------
 [TUBERF,Winnie]
+LoseText = ...
 Pokemon = TAUROS,20
 #-------------------------------
 [TUBERF,Clara]
+LoseText = ...
 Pokemon = STARAVIA,24
 #-------------------------------
 [TUBERF,Rose]
+LoseText = ...
 Pokemon = SWELLOW,27
 Pokemon = PELIPPER,30
 #-------------------------------
 [TUBERF,Yasmin]
+LoseText = ...
 Pokemon = CRYOGONAL,30
 #-------------------------------
 [TUBERF,Martha]
+LoseText = ...
 Pokemon = AVALUGG,30
 #-------------------------------
 [TUBERM,Rory]
+LoseText = ...
 Pokemon = JYNX,30
 #-------------------------------
 [TUBERM,Mickey]
+LoseText = ...
 Pokemon = GASTLY,20
 Pokemon = HAUNTER,22
 #-------------------------------
 [TUBERM,Chris]
+LoseText = ...
 Pokemon = DHELMISE,30
 #-------------------------------
 [TUBERM,George]
+LoseText = ...
 Pokemon = VAPOREON,33
 #-------------------------------
 [SWIMMERF,Sophie]
+LoseText = ...
 Pokemon = ROTOM,31
 #-------------------------------
 [SWIMMERF,Grace]
+LoseText = ...
 Pokemon = CONKELDURR,33
 #-------------------------------
 [SWIMMERM,Michael]
+LoseText = ...
 Pokemon = ESPEON,32
 Pokemon = SHELLOS,20
 #-------------------------------
@@ -1153,3 +1190,18 @@ Pokemon = MANKEY,27
 LoseText = I really need to train more!
 Pokemon = SILCOON,27
 Pokemon = MACHOP,10
+#-------------------------------
+[SWIMMERF,Michelle]
+LoseText = ...
+Pokemon = WINGULL,34
+Pokemon = PELIPPER,35
+#-------------------------------
+[SWIMMERF,Veronica]
+LoseText = ...
+Pokemon = CACNEA,30
+Pokemon = VAPOREON,36
+#-------------------------------
+[SWIMMERF,Viola]
+LoseText = ...
+Pokemon = FROGADIER,35
+Pokemon = GRENINJA,37
