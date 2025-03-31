@@ -149,7 +149,7 @@ Items = MEGARING
 LoseText = Another defeaning blow...
 Pokemon = VENUSAUR,70
 Pokemon = SNORLAX,70
-Pokemon = AEGISLASH,70
+Pokemon = VOLCANION,70
 Pokemon = ORICORIO,70
 Pokemon = TALONFLAME,70
 Pokemon = CHARIZARD,70
@@ -618,6 +618,18 @@ Pokemon = JOLTEON,32
 Pokemon = GALVANTULA,32
 Pokemon = DURALUDON,32
 #-------------------------------
+[LEADER_Justyn,Justyn,1]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = We didn't modernise enough...
+Pokemon = ELECTIVIRE,70
+Pokemon = RAICHU,70
+    Form = 1
+Pokemon = LUXRAY,70
+Pokemon = JOLTEON,70
+Pokemon = AMPHAROS,70
+	Item = AMPHAROSITE
+Pokemon = DURALUDON,70
+#-------------------------------
 [ACETRAINERM,David]
 LoseText = Well played.
 Pokemon = GIGALITH,30
@@ -751,6 +763,17 @@ Pokemon = SIRFETCHD,36
 Pokemon = CHESNAUGHT,36
 Pokemon = GALLADE,36
 #-------------------------------
+[LEADER_Catalina,Catalina,1]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = Your strategies held up.
+Pokemon = FLYGON,70
+Pokemon = COPPERAJAH,70
+Pokemon = RAPIDASH,70
+Pokemon = SIRFETCHD,70
+Pokemon = CHESNAUGHT,70
+Pokemon = GALLADE,70
+	Item = GALLADITE
+#-------------------------------
 [RIVALEM,Emyly,1]
 LoseText = So fun!
 Pokemon = ROCKRUFF,27
@@ -804,6 +827,19 @@ Pokemon = ABSOL,38
 Pokemon = BLAZIKEN,40
     Item = BLAZIKENITE
 #-------------------------------
+[LEADER_Bruno,Bruno,1]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = Lucky bounce. You didn't actually win.
+Pokemon = MIENSHAO,70
+Pokemon = LUCARIO,70
+    Item = LUCARIONITE
+Pokemon = HARIYAMA,70
+Pokemon = POLIWRATH,70
+Pokemon = ABSOL,70
+    Item = ABSOLITE
+Pokemon = BLAZIKEN,70
+    Item = BLAZIKENITE
+#-------------------------------
 [LEADER_Beleth,Beleth]
 Items = FULLRESTORE,POTION,POTION,MEGARING
 LoseText = I surrender.
@@ -813,6 +849,18 @@ Pokemon = DUSKNOIR,43
 Pokemon = COFAGRIGUS,43
 Pokemon = CHANDELURE,43
 Pokemon = BANETTE,45
+    Item = BANETTITE
+#-------------------------------
+[LEADER_Beleth,Beleth,1]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = I surrender.
+Pokemon = GENGAR,70
+	Item = GENGARITE
+Pokemon = AEGISLASH,70
+Pokemon = DUSKNOIR,70
+Pokemon = COFAGRIGUS,70
+Pokemon = CHANDELURE,70
+Pokemon = BANETTE,70
     Item = BANETTITE
 #-------------------------------
 [LAIRITEGRUNTF,Alexandra]
@@ -873,6 +921,17 @@ Pokemon = AGGRON,47
 Pokemon = STEELIX,47
     Item = STEELIXITE
 #-------------------------------
+[LEADER_Ulgrim,Ulgrim,1]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = Terrible news.
+Pokemon = BRONZONG,70
+Pokemon = EXCADRILL,70
+Pokemon = ESCAVALIER,70
+Pokemon = METAGROSS,70
+Pokemon = AGGRON,70
+Pokemon = STEELIX,70
+    Item = STEELIXITE
+#-------------------------------
 [LEADER_Paige,Paige]
 Items = FULLRESTORE,POTION,POTION,MEGARING
 LoseText = At least a Rodentid didn't beat me.
@@ -882,6 +941,17 @@ Pokemon = TSAREENA,53
 Pokemon = HATTERENE,53
 Pokemon = PRIMARINA,53
 Pokemon = GARDEVOIR,53
+    Item = GARDEVOIRITE
+#-------------------------------
+[LEADER_Paige,Paige,1]
+Items = FULLRESTORE,POTION,POTION,MEGARING
+LoseText = At least a Rodentid didn't beat me.
+Pokemon = FLORGES,70
+Pokemon = TOGEKISS,70
+Pokemon = TSAREENA,70
+Pokemon = HATTERENE,70
+Pokemon = PRIMARINA,70
+Pokemon = GARDEVOIR,70
     Item = GARDEVOIRITE
 #-------------------------------
 [DWARF,Nuray]

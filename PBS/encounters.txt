@@ -2967,7 +2967,6 @@ SuperRod,10
 	5,GLASTRIER,60,65
 	5,SPECTRIER,60,65
 	5,CALYREX,60,65
-	1,MEW,60,65
 #-------------------------------
 [192] # Sirandeh City
 Land,10
