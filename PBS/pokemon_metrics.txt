@@ -6492,12 +6492,6 @@ FrontSprite = 0,5
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
-[MIMIGEIST]
-BackSprite = 0,0
-FrontSprite = 0,0
-ShadowX = 0
-ShadowSize = 2
-#-------------------------------
 [SAUSCAL]
 BackSprite = 0,40
 FrontSprite = 0,31
@@ -6578,6 +6572,12 @@ ShadowSize = 2
 #-------------------------------
 [BLITCH]
 BackSprite = 0,21
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[CLUELESS]
+BackSprite = 0,11
 FrontSprite = 0,18
 ShadowX = 0
 ShadowSize = 2
