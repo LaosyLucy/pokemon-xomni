@@ -6569,3 +6569,15 @@ BackSprite = 0,25
 FrontSprite = 0,17
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[MRDOMINGO]
+BackSprite = 0,50
+FrontSprite = 0,6
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[BLITCH]
+BackSprite = 0,21
+FrontSprite = 0,18
+ShadowX = 0
+ShadowSize = 2
