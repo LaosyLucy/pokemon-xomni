@@ -6581,3 +6581,21 @@ BackSprite = 0,11
 FrontSprite = 0,18
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[PLANTII]
+BackSprite = 0,47
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[PLANTSEE]
+BackSprite = 0,21
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[ESPRIGNE]
+BackSprite = 0,14
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 2
