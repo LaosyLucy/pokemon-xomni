@@ -23381,7 +23381,7 @@ Color = Brown
 Shape = Quadruped
 Habitat = Grassland
 Category = Gargoyle
-Pokedex = It's intimidating features scare away birds, and is sometimes used as a living scarecrow on farms.
+Pokedex = Its intimidating features scare away birds, and is sometimes used as a living scarecrow on farms.
 Generation = 10
 WildItemUncommon = CHILANBERRY
 Evolutions = AEROGOYLE,Level,35
@@ -23408,7 +23408,7 @@ Color = Brown
 Shape = Quadruped
 Habitat = Grassland
 Category = Gargoyle
-Pokedex = It's rock-like skin can absorb water to feed valuable nutritions during rain.
+Pokedex = Its rock-like skin can absorb water to feed valuable nutritions during rain.
 Generation = 10
 WildItemUncommon = CHILANBERRY
 #-------------------------------

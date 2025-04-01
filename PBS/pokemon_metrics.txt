@@ -6599,3 +6599,15 @@ BackSprite = 0,14
 FrontSprite = 0,15
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[THOMBOLO]
+BackSprite = 0,39
+FrontSprite = 0,30
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[THOMBETTE]
+BackSprite = 0,49
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 2

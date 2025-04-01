@@ -24,22 +24,48 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Esperiy Town (22) - Route A1 (32)
+22,South,22,32,North,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
+# Route A1 (32) - InystanBeaches (82)
+32,West,160,82,East,0
+# Route A4 (86) - Route A1 (32)
+86,North,0,32,South,100
+# Route A3 (79) - Route A1 (32)
+79,North,0,32,South,40
+# Inysta Town (43) - Route A1 (32)
+43,North,0,32,South,0
+# Route A2 (81) - Route A1 (32)
+81,North,40,32,South,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
+# Inysta Town (43) - InystanBeaches (82)
+43,West,80,82,East,0
+# Inysta Town (43) - Route A3 (79)
+43,East,0,79,West,0
+# Route A2 (81) - Inysta Town (43)
+81,East,0,43,West,0
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# Route A3 (79) - Route A4 (86)
+79,East,0,86,West,0
+# Route A2 (81) - InystanBeaches (82)
+81,South,0,82,North,30
+# InystaBeachWest (139) - InystanBeaches (82)
+139,East,8,82,West,0
 # RouteA2northbit (84) - InystanBeachesLugia (83)
 84,South,0,83,North,30
+# Route A4 (86) - Kerenca Town (87)
+86,South,36,87,North,0
 # Wynnoa City (89) - Route A6 (103)
 89,North,93,103,South,0
 # Route A7 (116) - Wynnoa City (89)
@@ -68,72 +94,6 @@
 137,East,0,136,West,9
 # Hveden Canal (137) - Battle Frontier (218)
 137,North,0,218,South,0
-# Bazir City (163) - Lothyran City (169)
-163,West,134,169,East,0
-# Route A19 (168) - Bazir City (163)
-168,East,0,163,West,39
-# Malassia Town (215) - Bazir City (163)
-215,South,0,163,North,22
-# Route A20 (170) - Route A19 (168)
-170,North,0,168,South,21
-# Sirandeh City (192) - Route A19 (168)
-192,East,35,168,West,0
-# Lothyran City (169) - Route A21 (178)
-169,West,28,178,East,0
-# Route A20 (170) - Lothyran City (169)
-170,South,0,169,North,26
-# Route A21 (178) - Route A22 (180)
-178,West,25,180,East,0
-# Jara City (179) - Route A21 (178)
-179,North,0,178,South,0
-# Jara City (179) - Route A22 (180)
-179,West,0,180,East,5
-# Old Dinsmark Town (181) - Route A22 (180)
-181,South,21,180,North,0
-# Route A23 (185) - Old Dinsmark Town (181)
-185,East,0,181,West,5
-# Eientei City (186) - Old Dinsmark Town (181)
-186,East,55,181,West,0
-# Eientei City (186) - Route A23 (185)
-186,South,5,185,North,0
-# New Dinsmark City (187) - Route A23 (185)
-187,North,0,185,South,4
-# Route A24 (189) - Eientei City (186)
-189,South,0,186,North,11
-# Victory Road (188) - New Dinsmark City (187)
-188,North,2,187,South,0
-# Atlantia Town (190) - Route A24 (189)
-190,West,28,189,East,0
-# Route A25 (191) - Atlantia Town (190)
-191,West,0,190,East,0
-# Route A25 (191) - Sirandeh City (192)
-191,East,0,192,West,0
-# Route A4 (86) - Kerenca Town (87)
-86,South,36,87,North,0
-# Route A1 (32) - InystanBeaches (82)
-32,West,160,82,East,0
-# Inysta Town (43) - InystanBeaches (82)
-43,West,80,82,East,0
-# Route A2 (81) - InystanBeaches (82)
-81,South,0,82,North,30
-# InystaBeachWest (139) - InystanBeaches (82)
-139,East,8,82,West,0
-# Esperiy Town (22) - Route A1 (32)
-22,South,22,32,North,0
-# Route A4 (86) - Route A1 (32)
-86,North,0,32,South,100
-# Route A3 (79) - Route A1 (32)
-79,North,0,32,South,40
-# Inysta Town (43) - Route A1 (32)
-43,North,0,32,South,0
-# Route A2 (81) - Route A1 (32)
-81,North,40,32,South,0
-# Route A3 (79) - Route A4 (86)
-79,East,0,86,West,0
-# Inysta Town (43) - Route A3 (79)
-43,East,0,79,West,0
-# Route A2 (81) - Inysta Town (43)
-81,East,0,43,West,0
 # Kessel City (159) - InystaBeachWest (139)
 159,South,200,139,North,0
 # Route A12 (140) - InystaBeachWest (139)
@@ -142,16 +102,6 @@
 142,South,34,139,North,0
 # Route A12 (140) - Kessel City (159)
 140,North,0,159,South,150
-# Route A16 (156) - Kessel City (159)
-156,North,0,159,South,100
-# Lucero Town (157) - Kessel City (159)
-157,West,0,159,East,50
-# Route A17 (158) - Kessel City (159)
-158,North,0,159,South,0
-# Route B5 (184) - Kessel City (159)
-184,East,0,159,West,13
-# Route A14 (143) - Kessel City (159)
-143,South,0,159,North,166
 # Route A13 (142) - Route A12 (140)
 142,South,0,140,North,16
 # Route A16 (156) - Route A12 (140)
@@ -164,15 +114,65 @@
 158,North,166,142,South,0
 # Route A14 (143) - Route A13 (142)
 143,South,0,142,North,0
-# Lucero Town (157) - Route A16 (156)
-157,East,0,156,West,0
-# Route A17 (158) - Lucero Town (157)
-158,East,0,157,West,0
-# Route B5 (184) - Route A17 (158)
-184,East,37,158,West,0
+# Route A14 (143) - Kessel City (159)
+143,South,0,159,North,166
 # Route A15 (144) - Route A14 (143)
 144,South,0,143,North,0
 # Karvalaar City (145) - Route A15 (144)
 145,South,15,144,North,0
 # DwarvenCliffs (149) - Karvalaar City (145)
 149,East,0,145,West,19
+# Route A16 (156) - Kessel City (159)
+156,North,0,159,South,100
+# Lucero Town (157) - Route A16 (156)
+157,East,0,156,West,0
+# Lucero Town (157) - Kessel City (159)
+157,West,0,159,East,50
+# Route A17 (158) - Lucero Town (157)
+158,East,0,157,West,0
+# Route A17 (158) - Kessel City (159)
+158,North,0,159,South,0
+# Route B5 (184) - Route A17 (158)
+184,East,37,158,West,0
+# Route B5 (184) - Kessel City (159)
+184,East,0,159,West,13
+# Route A21 (178) - Jara City (179)
+178,South,0,179,North,0
+# Route A22 (180) - Jara City (179)
+180,East,5,179,West,0
+# Lothyran City (169) - Route A21 (178)
+169,West,28,178,East,0
+# Route A22 (180) - Route A21 (178)
+180,East,0,178,West,25
+# Bazir City (163) - Lothyran City (169)
+163,West,134,169,East,0
+# Route A20 (170) - Lothyran City (169)
+170,South,0,169,North,26
+# Route A19 (168) - Bazir City (163)
+168,East,0,163,West,39
+# Malassia Town (215) - Bazir City (163)
+215,South,0,163,North,22
+# Route A20 (170) - Route A19 (168)
+170,North,0,168,South,21
+# Sirandeh City (192) - Route A19 (168)
+192,East,35,168,West,0
+# Route A25 (191) - Sirandeh City (192)
+191,East,0,192,West,0
+# Atlantia Town (190) - Route A25 (191)
+190,East,0,191,West,0
+# Route A24 (189) - Atlantia Town (190)
+189,East,0,190,West,28
+# Eientei City (186) - Route A24 (189)
+186,North,11,189,South,0
+# Old Dinsmark Town (181) - Eientei City (186)
+181,West,0,186,East,55
+# Route A23 (185) - Eientei City (186)
+185,North,0,186,South,5
+# Route A22 (180) - Old Dinsmark Town (181)
+180,North,0,181,South,21
+# Route A23 (185) - Old Dinsmark Town (181)
+185,East,0,181,West,5
+# New Dinsmark City (187) - Route A23 (185)
+187,North,0,185,South,4
+# Victory Road (188) - New Dinsmark City (187)
+188,North,2,187,South,0
