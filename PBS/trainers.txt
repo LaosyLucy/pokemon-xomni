@@ -445,7 +445,7 @@ Pokemon = ARCANINE,22
 Pokemon = MAGMAR,23
 Pokemon = RAICHU,23
 #-------------------------------
-[LAIRITEGRUNT,Doors]
+[LAIRITEGRUNTF,Doors]
 LoseText = My harem of Lopunnies.
 Pokemon = LOPUNNY,23
 Pokemon = GARDEVOIR,23
