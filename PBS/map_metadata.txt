@@ -18,6 +18,7 @@ MapPosition = 0,13,12
 [004]   # Pokémon Lab
 Name = Pokémon Lab
 MapPosition = 0,13,12
+Flags = NoPhoneSignal
 #-------------------------------
 [005]   # Route 1
 Name = Route 1
@@ -107,7 +108,8 @@ Name = Esperiy Town
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,19,19
+MapPosition = 0,19,19#
+Flags = NoPhoneSignal
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -166,6 +168,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,18,18
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -196,6 +199,7 @@ Flags = DisableBoxLink
 Name = Ingido Plateau
 MapPosition = 0,13,6
 Flags = DisableBoxLink
+Flags = NoPhoneSignal
 #-------------------------------
 [039]   # Route 4
 Name = Route 4
@@ -226,6 +230,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,19,19
+Flags = NoPhoneSignal
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
@@ -234,6 +239,7 @@ ShowArea = true
 MapPosition = 0,11,10
 BattleBack = field
 MapSize = 2,11
+Flags = NoPhoneSignal
 #-------------------------------
 [045]   # Route 6 Cycling Road
 Name = Route 6
@@ -241,6 +247,7 @@ Outdoor = true
 ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,10
+Flags = NoPhoneSignal
 #-------------------------------
 [046]   # Route 4 Cycling Road gate
 Name = Route 4
@@ -288,6 +295,7 @@ Name = Battle Frontier
 Outdoor = true
 ShowArea = true
 MapPosition = 0,17,10
+Flags = NoPhoneSignal
 #-------------------------------
 [053]   # Battle Frontier Poké Center
 Name = Battle Frontier
@@ -302,6 +310,7 @@ MapPosition = 0,17,10
 Name = Battle Frontier
 HealingSpot = 52,30,10
 MapPosition = 0,17,10
+Flags = NoPhoneSignal
 #-------------------------------
 [056]   # Battle Tower arena
 Name = Battle Frontier
@@ -418,6 +427,7 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+Flags = NoPhoneSignal
 #-------------------------------
 [079]   # Route A3
 Name = Route A3
@@ -426,6 +436,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,21,21
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [081]   # Route A2
 Name = Route A2
@@ -435,6 +446,7 @@ Bicycle = true
 Weather = Rain,100
 MapPosition = 0,22,22
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [082]   # InystanBeaches
 Name = Inystan Beaches
@@ -442,6 +454,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BattleBack = sand
+Flags = NoPhoneSignal
 #-------------------------------
 [083]   # InystanBeachesLugia
 Name = Inystan Beaches
@@ -450,6 +463,7 @@ ShowArea = true
 Bicycle = true
 Weather = Rain,100
 BattleBack = sand
+Flags = NoPhoneSignal
 #-------------------------------
 [086]   # Route A4
 Name = Route A4
@@ -458,6 +472,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,23,23
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [087]   # Kerenca Town
 Name = Kerenca Town
@@ -467,6 +482,7 @@ Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
 MapSize = 5,1
+Flags = NoPhoneSignal
 #-------------------------------
 [088]   # Route A5
 Name = Route A5
@@ -476,6 +492,7 @@ Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
 MapSize = 4,
+Flags = NoPhoneSignal
 #-------------------------------
 [089]   # Wynnoa City
 Name = Wynnoa City
@@ -484,6 +501,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = city
+Flags = NoPhoneSignal
 #-------------------------------
 [103]   # Route A6
 Name = Route A6
@@ -492,6 +510,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = snow
+Flags = NoPhoneSignal
 #-------------------------------
 [104]   # Basalite Fields
 Name = Basalite Fields
@@ -500,6 +519,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = rocky
+Flags = NoPhoneSignal
 #-------------------------------
 [116]   # Route A7
 Name = Route A7
@@ -508,6 +528,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,4,24
 BattleBack = snow
+Flags = NoPhoneSignal
 #-------------------------------
 [117]   # Ice Station
 Name = Ice Station Road
@@ -515,11 +536,13 @@ Outdoor = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = snow
+Flags = NoPhoneSignal
 #-------------------------------
 [118]   # Ice Station Interior
 Name = Ice Station
 MapPosition = 0,24,24
 BattleBack = indoor2
+Flags = NoPhoneSignal
 #-------------------------------
 [119]   # Route A8
 Name = Route A8
@@ -529,12 +552,14 @@ Bicycle = true
 Weather = Blizzard,100
 MapPosition = 0,24,24
 BattleBack = snow
+Flags = NoPhoneSignal
 #-------------------------------
 [123]   # Cernagov Plateau Int
 Name = Cernagov Plateau
 ShowArea = true
 MapPosition = 0,24,24
 BattleBack = cave2
+Flags = NoPhoneSignal
 #-------------------------------
 [124]   # Route A9
 Name = Route A9
@@ -544,11 +569,13 @@ Bicycle = true
 Weather = Snow,100
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [125]   # Cernagov Plateau F2
 Name = Cernagov Plateau
 MapPosition = 0,24,24
 BattleBack = cave2
+Flags = NoPhoneSignal
 #-------------------------------
 [126]   # Skrybel Town
 Name = Skrybel Town
@@ -557,6 +584,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = city
+Flags = NoPhoneSignal
 #-------------------------------
 [130]   # Route A10
 Name = Route A10
@@ -565,6 +593,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [131]   # Hweins City
 Name = Hweins City
@@ -573,6 +602,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = city
+Flags = NoPhoneSignal
 #-------------------------------
 [136]   # Route A11
 Name = Route A11
@@ -581,6 +611,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [137]   # Hveden Canal
 Name = Hveden Canal
@@ -589,6 +620,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [138]   # Matkalvina Forest
 Name = Matkalvina Forest
@@ -598,6 +630,7 @@ Bicycle = true
 Weather = Storm,100
 MapPosition = 0,24,24
 BattleBack = forest
+Flags = NoPhoneSignal
 #-------------------------------
 [139]   # InystaBeachWest
 Name = Inysta Beach West
@@ -605,6 +638,7 @@ Outdoor = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = sand
+Flags = NoPhoneSignal
 #-------------------------------
 [140]   # Route A12
 Name = Route A12
@@ -613,6 +647,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [142]   # Route A13
 Name = Route A13
@@ -621,6 +656,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [143]   # Route A14
 Name = Route A14
@@ -629,6 +665,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [144]   # Route A15
 Name = Route A15
@@ -637,6 +674,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [145]   # Karvalaar City
 Name = Karvalaar City
@@ -645,6 +683,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = rocky
+Flags = NoPhoneSignal
 #-------------------------------
 [149]   # DwarvenCliffs
 Name = Dwarven Cliffs
@@ -652,27 +691,32 @@ Outdoor = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [150]   # DwarvenCliffs1
 Name = Dwarven Caverns
 ShowArea = true
 MapPosition = 0,24,24
 BattleBack = rocky
+Flags = NoPhoneSignal
 #-------------------------------
 [151]   # DwarvenCliffs2
 Name = Dwarven Caverns
 MapPosition = 0,24,24
 BattleBack = rocky
+Flags = NoPhoneSignal
 #-------------------------------
 [152]   # DwarvenCliffs3
 Name = Dwarven Caverns
 MapPosition = 0,24,24
 BattleBack = rocky
+Flags = NoPhoneSignal
 #-------------------------------
 [153]   # DwarvenCliffs4
 Name = Dwarven Caverns
 MapPosition = 0,24,24
 BattleBack = rocky
+Flags = NoPhoneSignal
 #-------------------------------
 [156]   # Route A16
 Name = Route A16
@@ -681,6 +725,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [157]   # Lucero Town
 Name = Lucero Town
@@ -689,6 +734,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [158]   # Route A17
 Name = Route A17
@@ -697,6 +743,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [159]   # Kessel City
 Name = Kessel City
@@ -705,12 +752,14 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [160]   # Route A18
 Name = Route A18
 Outdoor = true
 ShowArea = true
 Weather = Sandstorm,100
+Flags = NoPhoneSignal
 #-------------------------------
 [168]   # Route A19
 Name = Route A19
@@ -719,6 +768,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [170]   # Route A20
 Name = Route A19
@@ -727,6 +777,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [163]   # Bazir City
 Name = Bazir City
@@ -735,6 +786,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [169]   # Lothyran City
 Name = Lothyran City
@@ -743,6 +795,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [178]   # Route A21
 Name = Route A21
@@ -751,6 +804,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [179]   # Jara City
 Name = Jara City
@@ -759,6 +813,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [180]   # Route A22
 Name = Route A22
@@ -767,6 +822,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [181]   # Old Dinsmark Town
 Name = Old Dinsmark Town
@@ -776,6 +832,7 @@ Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
 Weather = Fog,100
+Flags = NoPhoneSignal
 #-------------------------------
 [185]   # Route A23
 Name = Route A23
@@ -784,6 +841,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [213]   # Jara Gym Caverns
 Name = Jara Gym Caverns
@@ -793,6 +851,7 @@ Bicycle = true
 MapPosition = 0,24,24
 BattleBack = cave1
 DarkMap = true
+Flags = NoPhoneSignal
 #-------------------------------
 [189]   # Route A24
 Name = Route A24
@@ -801,6 +860,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [191]   # Route A25
 Name = Route A25
@@ -809,6 +869,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [188]   # Victory Road
 Name = Victory Road
@@ -817,6 +878,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [186]   # Eientei City
 Name = Eientei City
@@ -825,6 +887,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [187]   # New Dinsmark City
 Name = New Dinsmark City
@@ -833,6 +896,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [190]   # Atlantia Town
 Name = Atlantia Town
@@ -841,6 +905,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [192]   # Sirandeh City
 Name = Sirandeh City
@@ -849,6 +914,10 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
+#-------------------------------
+[97]   # Wynnoa Gym
+Flags = NoPhoneSignal
 #-------------------------------
 [215]   # Malassia Town
 Name = Malassia Town
@@ -857,24 +926,31 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,24,24
 BattleBack = field
+Flags = NoPhoneSignal
 #-------------------------------
 [218]  # Battle Frontier
 Name = Battle Frontier
 Outdoor = true
 MapPosition = 0,24,24
 BattleBack = water
+Flags = NoPhoneSignal
 #-------------------------------
 [220]  # Lair HQ
 Name = Lair HQ
+Flags = NoPhoneSignal
 #-------------------------------
 [221]  # Lair HQ
 Name = Lair HQ
+Flags = NoPhoneSignal
 #-------------------------------
 [222]  # Lair HQ
 Name = Lair HQ
+Flags = NoPhoneSignal
 #-------------------------------
 [223]  # Lair HQ
 Name = Lair HQ
+Flags = NoPhoneSignal
 #-------------------------------
 [224]  # Lair HQ
 Name = Lair HQ
+Flags = NoPhoneSignal
