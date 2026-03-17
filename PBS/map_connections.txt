@@ -136,18 +136,8 @@
 184,East,37,158,West,0
 # Route B5 (184) - Kessel City (159)
 184,East,0,159,West,13
-# Route A21 (178) - Jara City (179)
-178,South,0,179,North,0
-# Route A22 (180) - Jara City (179)
-180,East,5,179,West,0
-# Lothyran City (169) - Route A21 (178)
-169,West,28,178,East,0
-# Route A22 (180) - Route A21 (178)
-180,East,0,178,West,25
 # Bazir City (163) - Lothyran City (169)
 163,West,134,169,East,0
-# Route A20 (170) - Lothyran City (169)
-170,South,0,169,North,26
 # Route A19 (168) - Bazir City (163)
 168,East,0,163,West,39
 # Malassia Town (215) - Bazir City (163)
@@ -156,23 +146,35 @@
 170,North,0,168,South,21
 # Sirandeh City (192) - Route A19 (168)
 192,East,35,168,West,0
-# Route A25 (191) - Sirandeh City (192)
-191,East,0,192,West,0
-# Atlantia Town (190) - Route A25 (191)
-190,East,0,191,West,0
-# Route A24 (189) - Atlantia Town (190)
-189,East,0,190,West,28
-# Eientei City (186) - Route A24 (189)
-186,North,11,189,South,0
-# Old Dinsmark Town (181) - Eientei City (186)
-181,West,0,186,East,55
-# Route A23 (185) - Eientei City (186)
-185,North,0,186,South,5
+# Lothyran City (169) - Route A21 (178)
+169,West,28,178,East,0
+# Route A20 (170) - Lothyran City (169)
+170,South,0,169,North,26
+# Route A21 (178) - Jara City (179)
+178,South,0,179,North,0
+# Route A22 (180) - Route A21 (178)
+180,East,0,178,West,25
+# Route A22 (180) - Jara City (179)
+180,East,5,179,West,0
 # Route A22 (180) - Old Dinsmark Town (181)
 180,North,0,181,South,21
+# Old Dinsmark Town (181) - Eientei City (186)
+181,West,0,186,East,55
 # Route A23 (185) - Old Dinsmark Town (181)
 185,East,0,181,West,5
+# Route A23 (185) - Eientei City (186)
+185,North,0,186,South,5
 # New Dinsmark City (187) - Route A23 (185)
 187,North,0,185,South,4
+# Eientei City (186) - Route A24 (189)
+186,North,11,189,South,0
 # Victory Road (188) - New Dinsmark City (187)
 188,North,2,187,South,0
+# Route A24 (189) - Atlantia Town (190)
+189,East,0,190,West,28
+# Atlantia Town (190) - Route A25 (191)
+190,East,0,191,West,0
+# Route A25 (191) - Sirandeh City (192)
+191,East,0,192,West,0
+# RoadAhead (242) - Ensembelle City (241)
+242,South,0,241,North,23

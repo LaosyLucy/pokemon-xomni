@@ -108,7 +108,7 @@ Name = Esperiy Town
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,19,19#
+MapPosition = 0,19,19
 Flags = NoPhoneSignal
 #-------------------------------
 [023]   # Lerucean Town
@@ -198,7 +198,6 @@ Flags = DisableBoxLink
 [038]   # Hall of Fame
 Name = Ingido Plateau
 MapPosition = 0,13,6
-Flags = DisableBoxLink
 Flags = NoPhoneSignal
 #-------------------------------
 [039]   # Route 4
@@ -503,6 +502,10 @@ MapPosition = 0,24,24
 BattleBack = city
 Flags = NoPhoneSignal
 #-------------------------------
+[097]   # Wynnoa Gym
+Name = Wynnoa Gym
+Flags = NoPhoneSignal
+#-------------------------------
 [103]   # Route A6
 Name = Route A6
 Outdoor = true
@@ -761,24 +764,6 @@ ShowArea = true
 Weather = Sandstorm,100
 Flags = NoPhoneSignal
 #-------------------------------
-[168]   # Route A19
-Name = Route A19
-Outdoor = true
-ShowArea = true
-Bicycle = true
-MapPosition = 0,24,24
-BattleBack = field
-Flags = NoPhoneSignal
-#-------------------------------
-[170]   # Route A20
-Name = Route A19
-Outdoor = true
-ShowArea = true
-Bicycle = true
-MapPosition = 0,24,24
-BattleBack = field
-Flags = NoPhoneSignal
-#-------------------------------
 [163]   # Bazir City
 Name = Bazir City
 Outdoor = true
@@ -788,8 +773,26 @@ MapPosition = 0,24,24
 BattleBack = field
 Flags = NoPhoneSignal
 #-------------------------------
+[168]   # Route A19
+Name = Route A19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+Flags = NoPhoneSignal
+#-------------------------------
 [169]   # Lothyran City
 Name = Lothyran City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+Flags = NoPhoneSignal
+#-------------------------------
+[170]   # Route A20
+Name = Route A19
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -829,50 +832,13 @@ Name = Old Dinsmark Town
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Weather = Fog,100
 MapPosition = 0,24,24
 BattleBack = field
-Weather = Fog,100
 Flags = NoPhoneSignal
 #-------------------------------
 [185]   # Route A23
 Name = Route A23
-Outdoor = true
-ShowArea = true
-Bicycle = true
-MapPosition = 0,24,24
-BattleBack = field
-Flags = NoPhoneSignal
-#-------------------------------
-[213]   # Jara Gym Caverns
-Name = Jara Gym Caverns
-Outdoor = false
-ShowArea = false
-Bicycle = true
-MapPosition = 0,24,24
-BattleBack = cave1
-DarkMap = true
-Flags = NoPhoneSignal
-#-------------------------------
-[189]   # Route A24
-Name = Route A24
-Outdoor = true
-ShowArea = true
-Bicycle = true
-MapPosition = 0,24,24
-BattleBack = field
-Flags = NoPhoneSignal
-#-------------------------------
-[191]   # Route A25
-Name = Route A25
-Outdoor = true
-ShowArea = true
-Bicycle = true
-MapPosition = 0,24,24
-BattleBack = field
-Flags = NoPhoneSignal
-#-------------------------------
-[188]   # Victory Road
-Name = Victory Road
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -898,8 +864,35 @@ MapPosition = 0,24,24
 BattleBack = field
 Flags = NoPhoneSignal
 #-------------------------------
+[188]   # Victory Road
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+Flags = NoPhoneSignal
+#-------------------------------
+[189]   # Route A24
+Name = Route A24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+Flags = NoPhoneSignal
+#-------------------------------
 [190]   # Atlantia Town
 Name = Atlantia Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+Flags = NoPhoneSignal
+#-------------------------------
+[191]   # Route A25
+Name = Route A25
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -916,7 +909,12 @@ MapPosition = 0,24,24
 BattleBack = field
 Flags = NoPhoneSignal
 #-------------------------------
-[97]   # Wynnoa Gym
+[213]   # Jara Gym Cavern
+Name = Jara Gym Caverns
+Bicycle = true
+MapPosition = 0,24,24
+DarkMap = true
+BattleBack = cave1
 Flags = NoPhoneSignal
 #-------------------------------
 [215]   # Malassia Town
@@ -928,29 +926,48 @@ MapPosition = 0,24,24
 BattleBack = field
 Flags = NoPhoneSignal
 #-------------------------------
-[218]  # Battle Frontier
+[218]   # Battle Frontier
 Name = Battle Frontier
 Outdoor = true
 MapPosition = 0,24,24
 BattleBack = water
 Flags = NoPhoneSignal
 #-------------------------------
-[220]  # Lair HQ
+[220]   # LairHQ 2
 Name = Lair HQ
 Flags = NoPhoneSignal
 #-------------------------------
-[221]  # Lair HQ
+[221]   # LairHQ
 Name = Lair HQ
 Flags = NoPhoneSignal
 #-------------------------------
-[222]  # Lair HQ
+[222]   # LairHQ 4
 Name = Lair HQ
 Flags = NoPhoneSignal
 #-------------------------------
-[223]  # Lair HQ
+[223]   # LairHQ 3
 Name = Lair HQ
 Flags = NoPhoneSignal
 #-------------------------------
-[224]  # Lair HQ
+[224]   # LairHQ 5
 Name = Lair HQ
+Flags = NoPhoneSignal
+#-------------------------------
+[241]   # Ensembelle City
+Name = Ensembelle City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
+Flags = NoPhoneSignal
+#-------------------------------
+[242]   # RoadAhead
+Name = Ensembelle City
+Outdoor = true
+ShowArea = false
+Weather = Rain,100
+Bicycle = true
+MapPosition = 0,24,24
+BattleBack = field
 Flags = NoPhoneSignal
