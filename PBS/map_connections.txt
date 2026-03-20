@@ -24,8 +24,6 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
-# Esperiy Town (22) - Route A1 (32)
-22,South,22,32,North,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
@@ -176,5 +174,7 @@
 190,East,0,191,West,0
 # Route A25 (191) - Sirandeh City (192)
 191,East,0,192,West,0
-# RoadAhead (242) - Ensembelle City (241)
-242,South,0,241,North,23
+# Ensembelle City (241) - RoadAhead (242)
+241,North,23,242,South,0
+# RoadAhead (242) - Esperiy Town (22)
+242,0,0,22,29,59
